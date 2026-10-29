@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T20:22:21.001923+00:00",
+  "checkedAt": "2026-10-29T20:22:49.403885+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -350,6 +350,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-37fb185821c9e41425ed",
+      "title": "GTA 6: Leak nennt 201 Hauptmissionen und neun Kapitel",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-29T08:56:15+00:00",
+      "sourceName": "Allround-PC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFJzTHNDYUVTVzdHcmdpeUQyTmR5OGRxckd5bWhLWWF1Wk50Um9nMWFla1VJRThLQ3FoVDN3NXQzT2FkaS05WW5TY2dkSVJON05fMG5LMTRWakc5RWdhMlJGZENleU1rOTRwUEFKRjNmYUZLSjVkQ1hKSmJHNVBqemk0d1d1c2M?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-1332f4037f40818fc4cb",
       "title": "GTA 6: So groß wird die Welt – neue Details zur Map und dem dynamischen Wetter-System -",
       "summary": "",
@@ -550,6 +560,26 @@
       "category": "feed"
     },
     {
+      "id": "rss-8c85f9a6985e4371b9be",
+      "title": "Virgin Media Ireland zahlt 800 Euro fürs GTA 6 Spielen, aber nur in Irland",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-28T11:16:40+00:00",
+      "sourceName": "PlayCentral",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wWUY1WXFoSWMyWkpaOFZiRmRkeVloNGJTaEZEU01WTWZDZkhmS0NGZHlZWmFnNy1CNVAwaWppTUdDRHJyYWR3eFUtZ2NoYmg2eU9Od1htQmhHTERzRE9NODNmeHZxdnJfajJYeEctUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-9418efb177ea06eb18ba",
+      "title": "GTA 6 hat sich wohl eines der coolsten Features aus Cyberpunk 2077 abgeschaut und könnte sogar noch einen drauflegen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-28T11:15:00+00:00",
+      "sourceName": "Mein-MMO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWtfclQyY0RPX2N0NWVWQm9xS2pBSkZ0LXhoLURFUFN2OEduZDlQQXRUWFJ4UjFNUmVNS1JhOG9NdWVaYzNmeG1Qazc3TVRFNmoxNVlhRmJnR2pCSzdvQV9OQTVxWm04dldmeklhMENBOW5ISU00QlJ4OUN3TnBCSGxn?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-c3b36ebe71aecaa59d8c",
       "title": "GTA 6: Downloadgröße geleakt - Spieler müssen wohl ordentlich Speicher freiräumen",
       "summary": "",
@@ -580,6 +610,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-09911d085fa1978214d5",
+      "title": "GTA 6 Release: Unser Launch-Countdown zeigt exakt, wie lange es noch bis zum Start in Deutschland dauert",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-28T10:00:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFRYQVZhc2ZVR25Ob1lINllUV1g4NE5fYWdFSERWaG5ET0ZuY1E1SEdkZVZpWm9CWFFYSkVHSGx0WnZuRTJHZHlwVENmeXRENnF2RmRhbGpNN0ZOdnJzeTM5NVNUTF9yM0pHZTVnQnc0ZERXbTRvQktYd0JmU2hLWW1OTFRtSkd6b3cyYUV4U0Nacms5RTRZaVNWV2hmMVI2Wm9Gc0V6UDg4Tk51cFhOQWdMaVFqNVhOTEhqU2lnTXJkOEo2eEFzUDdEV0JseF9nNS00OUJnT3J0N2FLSGdOQg?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-5ce1c2fbbde2f43823da",
       "title": "Rockstar Games: GTA 6 soll auf der PS5 rund 210 GByte groß sein",
       "summary": "",
@@ -597,6 +637,16 @@
       "publishedAt": "2026-10-28T09:55:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3lmWDEzclNmQUEwcVdybHgwWHp3anlNaDduSFBOZnUwMmpfVlZmWGEwYlVrcEhlUVoyaDFYNXpqUXMxTjJtekFQSlJySmthY2lmTHlrQW9xLXRhd0hacW1KQURaOTFyUTEwYzRKZ3o4UUVzTU9GWG5fcDN0WExhYWQ4QzJZcWFGZ2Q3Z1BKNlIwVmt3WlpKaEphS3VGLTFEZUlOcUxRV1FEWlFZSFFTUVlBTkxObmR2b0E3RA?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-7e5901a53471de83a76c",
+      "title": "GTA 6: Die Preload-Termine stehen jetzt fest - zu diesem Datum könnt ihr den Download starten",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-28T09:45:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UWmtkNzF6SlR5dl9lSEYzNS0wSVJyWlQ5NU1SMUNyR1d0VkNEMHlqUXItaTRQeWk4TjU2U3dMMEdkQVdRbXM2MGNKS201V3cwdHJJWW1way1TRjVLSjJDeUdSWHNyRVdad0RBaXFvM3NlVkVtT012MQ?oc=5",
       "category": "feed"
     },
     {
@@ -657,6 +707,26 @@
       "publishedAt": "2026-10-28T07:05:00+00:00",
       "sourceName": "WinFuture",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNLUtOMmlodHVWMDZVMEU0UmhUdEtzWk1TcWtNSXdqeTY0Y05fVlZVbkUxYnZmT1dWM040RlJsQzctNFRqVU9tUUl4c2htUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-f15b0a501462832ef692",
+      "title": "GTA 6 bei Edeka: Supermarkt macht großes Versprechen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-28T04:38:00+00:00",
+      "sourceName": "Giga",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDJUS3JoUjg5YTFNaE5yNjJoeTFWX3NNb0dHX0JtQ3FwdUdUSTI1RzNUYjdncjJWTFBXYmJHWVBfZklLUFZZZDdpZHozUmszSUhaSUNDR2psZ0s5WnZuWDF6ZWFWZmszdzRzTGt2S0JHUjlzX2FpWWVyRzI5Tk04NWhWR3hjSXJhNm8yRGRZN0ZYZnFYVlpiLWs3NlN2ZVgzQzNTYzNkVkZHZw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-428333acadd0ae02b002",
+      "title": "GTA 6 auf PS5 - Bericht nennt 210 GB, Preload am 12.11.2026",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-27T22:28:36+00:00",
+      "sourceName": "PlayCentral",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZX1hld3dwTVMtcHZXV0tUd0R1SlJ3VzV6c0R5QW5SRkN4N0VQaENWZGZTR2tDbTlhbzUtTmxXeENhSHFXNU9sX0R0YkIycHREMjhSRV9lTVhrMzM0MEUtbnpZNHhRLU5yMkhF?oc=5",
       "category": "feed"
     },
     {
@@ -770,6 +840,26 @@
       "category": "feed"
     },
     {
+      "id": "rss-ad51f3ce7027bee340fb",
+      "title": "GTA 6: Review-Termin wohl geleakt - wann erscheinen die ersten Tests? -",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-26T17:08:00+00:00",
+      "sourceName": "PLAY3.DE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzNXcTl3cTFKOGlPWl9Dd0VSMFk2c3EzcWIyb0tKd3N2TEtqeEc0cU1yTlVzdjh5YjVVUVY2LV9ORXN5RzBrSV83M1VXMG1ON2JPM0hLM3VxWXY0NkNrd2tCT2RTTVUzOUlXY21GN0hqb3dUei1pQkVSMmJ2R0N3MnI3UTBDWWZScUhmcjVaaml4bWlKaGliSEhfSnctOHc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-dac5ac359f3c674f8306",
+      "title": "GTA 6 eine Woche vor Release in Münsters Verkaufsregalen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-26T17:07:00+00:00",
+      "sourceName": "Westfälische Nachrichten",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRmS25Na1B4Q2drQ1NXT0xZSEV4d3h5eHpJUG1hb0tWQ09oQ293WUVNNkRzaW5ueEh2MUZXUHZINllyUUtBckhOWkhjU0VDN2NVTm5lWXVlR2ZSYVU1LWtNdndYeHRBbEdCRkpXRUxLOXBfbzR5S2lScy1SN25SWjVNLWQ?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-202b34074744aa91316b",
       "title": "Verursacht GTA 6 echt eine Milliarde Dollar Wirtschaftsschaden? »Selbst wenn es stimmt, wäre es nicht so wild«",
       "summary": "",
@@ -830,6 +920,26 @@
       "category": "feed"
     },
     {
+      "id": "rss-a39cce7255577f781f0d",
+      "title": "GTA 6 Marketing folgt Donnerstagsrhythmus – kommt am 29. Oktober die nächste News",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-26T10:38:05+00:00",
+      "sourceName": "PlayCentral",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVdOXzhtQXRoLTJfNGRHbERRSXd6bjkyZ0hNWkZmVG9sanRqMHFSMkN6OTNLQjlYZXNjcjNFOTVNdm1JVnhUanViNVlsSEl5OTY4bDd5Qjhsci1PVE8xUzlfUElhVGVXb01YUlhtRlpIQkN1NXJvak50dlNKdi0wYWJUdlBtb3NLdzBaZFctTVRuLVNFMWowOVdzSGE4NGdDN1FmaDNCelBuQlE?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-c15bcf1c348ce0f3231f",
+      "title": "Die Biere aus \"Grand Theft Auto\" könnten im Vorfeld von \"GTA 6\" Realität werden",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-26T09:50:42+00:00",
+      "sourceName": "Hypebeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzRyY05zbFhWMG1IZy12a2FXcTBfRTFsMEJyYlRVR25lYWJXVjJMR2p3MmhqOEpTOGdsYjNSRzJsV2VtbTdRY0cxMEp6X1FGb0VHZEhhZGh4eWR4SUF5Z1dnU3JNeW1teHU1WGhDQlYzWVQ3OGFaRnVsVS1LeVh0QlJ1QVN3MWR4VWpmZ3V0ejVTR3Z3bGctTXRKekg1OXA4NHRkQWh1TkQ5RzNsMkNN?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-c3673d91b4c35a3476f1",
       "title": "Für GTA 6 arbeiten echte Rennfahrer am Fahrgefühl und ich träume schon von meiner ersten Verfolgungsjagd",
       "summary": "",
@@ -837,6 +947,16 @@
       "publishedAt": "2026-10-25T18:03:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0d2VDdHZlVpd3M0TTBITHR3YTZVSVRmSmlVN3F1eGt1Zy03b3ptaVdoY3hGWmdzRXlEZUF0RWVKbVViSzFPSzNxU0xZdVJTMVNYWnNSLVhXdXlMem12ekVfQVRVeE95SXc1Q0k3SFRZanRBSkp6ejdlU3NDRU1pZ3dmVnVLUzl4bklLTThnZmxNYm5mT1RF?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-889229f96315cfa9d896",
+      "title": "GTA 6: Wäre der Videospiel-Blockbuster nur ein paar Wochen früher erschienen, wäre er Opfer von Raubkopien geworden",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-25T11:00:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjNsTHJGdWdsdVJ1U3BQNTB0OHhubVpkcGlXN3RLcFp2UkRYYm9fd1k5VFJKTjZoMXNmQ1k5ejZSdlNTOHhPWEYzSG5sbXNzdDJXU1JwQXBTeWxKOWpJYVNsMUFlWGJkQThJbmNBdUxhQ2ZxVG94dkpuN05WVWxsYmVQbDE?oc=5",
       "category": "feed"
     },
     {
@@ -897,6 +1017,16 @@
       "publishedAt": "2026-10-24T15:38:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3d5YzhtLU1iRUw3TVZJbENKYXFLQU01WS0zYk94U0xZcW51Nk5IRjNmZkYwOVh4MmFSUmNNUXRwLWtaaUdzZjZMZGFIcTZEaW81WWhhem5NNnBBck50eTRFMy01SVNWZzhReDF1WmhYVjE3bUpSM29ZYU9uQ2tGV2dmNmpsLWFEZWFLcFRJSG5Bc0k3SDY3Yw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-90e8cd07cfda2477a2f4",
+      "title": "GTA 6: GTA bald zum Trinken? Hinweise bei US-Behörde entdeckt -",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-24T07:38:00+00:00",
+      "sourceName": "PLAY3.DE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDZyLXdCSGNEWlljMk45MXFGMTZKYXVLRmN3RU1aektDRFR0NHFCZTBSYjUzUno2TlZ3N1hpUjJpcjduV25rMmRLdENhbjY2dDI4N3FHeGNQaG0xT3VNb3NRbGU2RHV6cEsxbDg5TTYyRE5sbUpMWS03WXFfc3VPamIwWkg0Yl9adHdpRi1rQl81NVJDVDB0Uw?oc=5",
       "category": "feed"
     },
     {

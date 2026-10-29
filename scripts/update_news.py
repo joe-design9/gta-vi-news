@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Fetch attributed headlines, not article text. No API key or Wabi dependency."""
-import email.utils, hashlib, json, re, urllib.request, xml.etree.ElementTree as ET
+import email.utils, hashlib, json, re, time, urllib.request, urllib.error, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -8,8 +8,15 @@ ROOT=Path(__file__).resolve().parents[1]
 PATH=ROOT/'news.json'
 URL='https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+when:7d&hl=de&gl=DE&ceid=DE:de'
 request=urllib.request.Request(URL,headers={'User-Agent':'GTA-VI-News-Fan-Feed/1.0 (+https://github.com/joe-design9/gta-vi-news)'})
-with urllib.request.urlopen(request,timeout=45) as response:
-    root=ET.fromstring(response.read())
+for attempt in range(3):
+    try:
+        with urllib.request.urlopen(request,timeout=45) as response:
+            root=ET.fromstring(response.read())
+        break
+    except (urllib.error.URLError, TimeoutError):
+        if attempt == 2:
+            raise
+        time.sleep(3 * (attempt + 1))
 items=root.findall('./channel/item')
 if not items:
     raise RuntimeError('RSS returned no items; preserving the previous feed and timestamp.')

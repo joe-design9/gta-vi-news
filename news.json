@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T01:10:58.973956+00:00",
+  "checkedAt": "2026-10-30T07:18:56.174754+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,16 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-2a5fe6fc6297272720fa",
+      "title": "Rockstar verrät: So riesig wird die Spielwelt von GTA 6 wirklich",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-30T06:45:00+00:00",
+      "sourceName": "WinFuture",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZLUt3eVhZbVBpcG44YjJYeDQtQlBZa3lXZ0Zsc1VMVFQtR21lVnJoZnF6ZnQ5Um1uTWNNRlpyZ2JqXzdkRjJWVW9DVE9Fdw?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-1dcaa80fb0e9cab66a21",
@@ -837,6 +847,16 @@
       "publishedAt": "2026-10-27T18:11:00+00:00",
       "sourceName": "PLAY3.DE",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2xCQWt2RHZBNHZqalRqcy1FbkhoWUJRRjlGZG43a3MxVUxIUllWTkNSaV9FZlRDOWRQSU9XUDZVWjNkR3JnRjBCa1FjQk91S2MzOGw2V2V6X3I0eE11ZlNfYVpnenByeXBlT1pabDVfZm1WbUJJdjNyMWFXYkFkdEhqRTVMOHlqQklDMkp0bE9xTm53TXVvd3NYNldnOWFQNVhsaE9DQWpjcXY3OFFlOWpCQUJZQmtHS29QSkxKcw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-0a325f54abccb9e56a8e",
+      "title": "GTA 6 gratis: Ein Internet-Tarif mit 2 Gigabit schenkt euch GTA 6 im PS- oder Xbox-Store!",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-27T16:29:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmEwdnVSMG1JeEE4VjZuQlhSVlJkLTh2YmY5MmlYaUkwcl9HbmtVV1JRUUxxcGcxeG84QzdhT29oUVh1RVZobHhLbkRCVlJzM004R3h0M3RhNURYUUtkRTFlUnVRRjZzVDFvOVUyZDRGR3B0SmsyZmc5TGQ0czNOOFgxVWVXMWJwQnN4b2RXTjNJdEh1djBLZ2R6cTk5czg?oc=5",
       "category": "feed"
     },
     {

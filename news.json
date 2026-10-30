@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T19:57:41.657259+00:00",
+  "checkedAt": "2026-10-30T23:54:53.383055+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,26 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-78f1c6b3b1ae167d096c",
+      "title": "GTA 5-NPCs hatten damals 55.000 Animationen - Ihr glaubt, das ist viel? GTA 6 hat 600.000",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-30T20:13:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FcHVHdXVZQmNNUEVSZndlWGV2d0xka3hhNi1zcV9kZmJLRE5CNW51aXQ3aDJMZVRBLVZOYTljYTJHTkFKdW5sWFlfcWpuR0hhRFpPTVFHTFVpRk1UTXQybFNaNDFwUGVLLVUtMGV6V0VQcVZldGd5aU9KaE5fUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-51a9bb23c9839b4ecf5b",
+      "title": "GTA 6: So monströs wird der Download auf der PS5",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-30T19:40:00+00:00",
+      "sourceName": "CHIP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXF4YlZ5TVBMSk01U2RHbDBoYW1VNFRkajQ0cTdOOWwzams3NWRuMm1rMVk3TlpSUnV1RndDa2p1Nm9hWXZLcGNXbEZFM2hUaVltXzlIbVZGTWxVNXllODUyUlRwNlJTdTRXby1UOWJDblhDNDhTb2tsUHJHQm9vN05pU1Jhc1FhRHh5M1ZaOGxwSWFCN2Y5Qk5KaXd6bzZ4ZElVdmlMYS1RYVo3Q3JqRm1pM2d4cEk2bldpT3ctNnJndw?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-b6764a4009f9ca0d55cb",

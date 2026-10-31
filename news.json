@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31T17:50:11.411588+00:00",
+  "checkedAt": "2026-10-31T21:45:15.106092+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,26 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-67f23f74fc6c3a60be02",
+      "title": "Einer der berühmtesten GTA 5-Easter-Eggs ist jetzt eine GTA 6-Gameplaymechanik",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-31T19:30:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGlVTEZsLTVBeTB4YWJaR3o1WE9xUE8xclZJU0UxQUMycVh2bjRyZnZXcGRRZ0FHYnBod2RVNzN3NE10YU9vWmpwT29zdEVaUHJXendTd2ZGUmp6bVJGTFJRVUpJajlLQktVaDFMbm1wLU5NN2ZIZWtnYnp1X1BDUzJYRQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-2eceda2bb83866639a41",
+      "title": "GTA 6: Das ist noch verrückter als der Trailer auf Netflix",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-31T15:37:00+00:00",
+      "sourceName": "Giga",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcllEQ3pZdTRPdmJiVm9qWHFEeFNCRG41ZkxPSFI5ZTZ0Tnh4cDZidVpaVjVlOEtreGxScldpRm1jY29kZjBWN0dJNnRLTGdxLVJtZjB2WnA4YmJRM25VNW1ON2d4TENWWnV6R0xQMVpYV0lBTVJuako2Rmtrd19Tc21yVlpfRzNsc3QwejF0ZmhEcGZrQ3hjSl93aHJ0Z1pMZUZUTXhhS1Y0SUNPS1lqeEx3?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-c4a3cacf4897384b630d",

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T01:18:12.676421+00:00",
+  "checkedAt": "2026-11-01T07:40:47.115172+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,36 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-6c1c37cbbed5a510d101",
+      "title": "Dieses Switch 2-Spiel verkauft sich besser als GTA 6 – und erscheint in vier Tagen!",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-01T06:36:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1RCWXJCczgwd0ZaWjRWYy1qLVBjVEoyYWRScjNxUUdJb0ZtZ2Izczg0M3hFREVtcmRSWGozOFc0LXI5bFB2bm9TcGVvaTNDb2RLQzZvdXZqYjFmZ0taWjFza3d2SGdEWlNveXVsbXE2T1RIcGNhcWl5RWwxdFBTdkE0dGxRVUNEeEZEUGstcUlEeS0zaDdkM3hNZVp4Y3VRbDV3NDNZZms4UG42ODFSbnd3OA?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-548181a6657254342caa",
+      "title": "Grand Theft Auto VI : GTA 6 erscheint diesen Monat!",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-01T05:30:00+00:00",
+      "sourceName": "XboxDynasty",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUJRS2dHQ2lZd1VIN2loT3RMdFlLMDVqaDJDaEFBaU9vVW9jdERhbWp0a3FGMktNRjZGb2JsN2hkSnJFb3hGSUFHYW5oWXN5ZUFKX1hjUk1CSTBrOWhnTWRyRUQ0RkdXcjNEdVVJSFpwMWJNeTVHT0VTM3JOLW9VeEJpLVR6dWVW?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-44e44b59c46ca346346d",
+      "title": "Die massive Spielzeit von GTA 6 passt zur massiven Download-Größe des Open World-Spiels",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-01T05:00:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hb24zWjhuOTQyMzB2VlpOUXI2a0hZUGFORWcwQ19GYl9YS1ZPeFMxTTJ5SV9meFdKMGV0UVJoMnJXS00tNjQxTUJUSG41ZG5HN2NRaGU0SmtsMjJDMTZtb2FwbFowaGU4Q0RobXRZRmFSakpMeUM1eWRoSQ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-67f23f74fc6c3a60be02",

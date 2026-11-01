@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T15:19:50.703650+00:00",
+  "checkedAt": "2026-11-01T19:48:59.412649+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,16 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-7a1cecb894e0d306c453",
+      "title": "\"Ja, ich habe gekündigt\" Jeder Dritte von euch nimmt sich zum GTA 6-Release frei – einige sogar den ganzen Monat",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-01T18:00:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FZ2E0RG9PdG16SHdnVlZmZjZlOWt0MGVUUGRMZWdqNzRBYVFUTjdkN0h6aHV2c1c5YUpSUGQ1NWRpVFIxV3pIWVJQZjhKTFBOd2dMMVRGc2lFSkxuOUZSWHpaZUQ1a1Mtd29nWHBfOEpLMV9fTzJZ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-3fcfe10f25006c3b894c",
@@ -1537,16 +1547,6 @@
       "publishedAt": "2026-10-24T07:14:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEgwOW9SUGxDeUZCNlk0c0llWkVhUjBhM2hWYlI4QzdhQmpvYjUzeVQ4SVI2VC1naVhvY1pVSWhJUHJ5RVRlVFBYV1dQalNzb1Bwem9hTWlabUU3eVNBOVFJSXl5ZWF6WTY0ZVhBdktWd2hZcVJMNXRDeE8zVk9FWlhoNjJ5Y0JkTXdfRU9yUU9UeVl2anVOaTFDUkprVkU?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-b99dbca8a8a623982357",
-      "title": "GTA 6: Ein unscheinbares T-Shirt von Jason erinnert an das erste GTA und wirft Fragen zur Geschichte der Reihe auf",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-24T04:29:00+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ejVpdTFmaTB2U2ZDYlNtdmE4SllOaE5PVEZoM3RwYW9FdnphNXh3QVpkb0pKdnFTOXlyRU1EX2tsN1A4Y1JkM0Z4MmR0djc5OWtKTEsxdjFicTh5ZWstT05scGtySEdhU0dUOWdCbnVEcWwz?oc=5",
       "category": "feed"
     }
   ]

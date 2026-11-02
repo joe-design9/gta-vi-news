@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T23:42:10.715049+00:00",
+  "checkedAt": "2026-11-02T06:29:16.000379+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,16 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-b4312d1ffafad082c61a",
+      "title": "GTA 6: Xbox Series X bei Microsoft ausverkauft – PS5 150 Euro günstiger",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-02T01:30:00+00:00",
+      "sourceName": "PCGH",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjZYMWtQTEVnQm5jTzhZLW1DM0g1VndTTVNxQWR6bkZBSXQyc1RPMWNJZnJlVnV6TDl1VUtzSjAtNjgzbksxY2V0bnNfT0V3b1UyYjkxdXBJeVUza2dPX0M3ejNXQkM3YkJjN09OdHE1WE51Rlp3a1NRTE9Td3BWLW5rR3V2ckZtLXkyd3p4U2VocklucTl5dWtFOWF0S1Z6UTJPVThHTXM1QTYzTlUzN0VxTQ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-7a1cecb894e0d306c453",
@@ -1537,16 +1547,6 @@
       "publishedAt": "2026-10-24T07:38:00+00:00",
       "sourceName": "PLAY3.DE",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDZyLXdCSGNEWlljMk45MXFGMTZKYXVLRmN3RU1aektDRFR0NHFCZTBSYjUzUno2TlZ3N1hpUjJpcjduV25rMmRLdENhbjY2dDI4N3FHeGNQaG0xT3VNb3NRbGU2RHV6cEsxbDg5TTYyRE5sbUpMWS03WXFfc3VPamIwWkg0Yl9adHdpRi1rQl81NVJDVDB0Uw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-945ce08e4aa0a446a08f",
-      "title": "GTA 6: Alle Gangs und Organisationen im Überblick – Diese Fraktionen kämpfen um die Vorherrschaft in Leonida",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-24T07:14:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEgwOW9SUGxDeUZCNlk0c0llWkVhUjBhM2hWYlI4QzdhQmpvYjUzeVQ4SVI2VC1naVhvY1pVSWhJUHJ5RVRlVFBYV1dQalNzb1Bwem9hTWlabUU3eVNBOVFJSXl5ZWF6WTY0ZVhBdktWd2hZcVJMNXRDeE8zVk9FWlhoNjJ5Y0JkTXdfRU9yUU9UeVl2anVOaTFDUkprVkU?oc=5",
       "category": "feed"
     }
   ]

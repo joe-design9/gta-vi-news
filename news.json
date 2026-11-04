@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T21:11:09.742238+00:00",
+  "checkedAt": "2026-11-04T01:29:51.852954+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,26 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-ed1ab6b0a08cc926e4a1",
+      "title": "GTA 6: Preload kommt früher, doch auf der Xbox Series S wird es eng",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-03T22:15:00+00:00",
+      "sourceName": "PCGH",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGo1MGZNR20tUklJZUJxTk5CNWtQQUd5c2V3WXpnS3Y3d3BtOXgtRURwT0ljcmo0Z0JWR0g2NC0tSmtxcWN0Q1dKWkpUelNTODhuME9ZaWNBVV9weV9xcUZsd2dROHNTYXdzc0ZpRVNvTTQyelRWSzBMZ2lsajFZaFN6WUtaSVM1Mnc3Rlk0clg2aTZPXzNkdndJNGJnVEwtR1YtRFdUNV9QamM?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-f6d474e23620267284c5",
+      "title": "GTA 6: Preload startet früher und Rockstar hat noch 2 weitere Geschenke für die Fans",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-03T19:10:02+00:00",
+      "sourceName": "Netzwelt",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdkS29Oc3FndXNoYTVUMVBCRXpfbDV3VHFMZW1HamwtNDdvZ0c2bTNxcXBneHg2eTJlMXc3dGh1QkxtbXVPOWhmQy1Zb1dSN1hGWjRtLWFFd0xia29pbUtLcmMzQjhEMW5oTFZ0dlRXU252LVV4NndDZ0xLblNmRmplTFlwSDZRUmR6em1QVzVtZks1dFNxTkh0UkFMOVZjQW1n?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-e9ccbee7a8e6f980a876",
@@ -170,6 +190,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-7e5901a53471de83a76c",
+      "title": "GTA 6: Die Preload-Termine stehen jetzt fest - zu diesem Datum könnt ihr den Download starten",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-03T15:28:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UWmtkNzF6SlR5dl9lSEYzNS0wSVJyWlQ5NU1SMUNyR1d0VkNEMHlqUXItaTRQeWk4TjU2U3dMMEdkQVdRbXM2MGNKS201V3cwdHJJWW1way1TRjVLSjJDeUdSWHNyRVdad0RBaXFvM3NlVkVtT012MQ?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-1dd8ce773f6b99def3a7",
       "title": "Mit 212 Gigabyte ist GTA 6 eines der größten Spiele die jemals erschienen sind - Nur ein weiteres kommt bisher noch dran",
       "summary": "",
@@ -187,6 +217,16 @@
       "publishedAt": "2026-11-03T15:14:09+00:00",
       "sourceName": "mobiFlip",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQi1VUGtIc1RxQzBDVGhfZDFlcURnYjU0dTU4Y3F6eTdwVWxxaVZxT3ktUDc4bzFVSFlXdHpPV21KeDRGdm1VbFJmeXg3amd3VkZiREV5QTZqankyY1g3bXNWeUZOQTlGN3YxVlVwUGlvMVpySmd5cVZfMlQ3aEZRSklyQzJXSHBjM2U40gGQAUFVX3lxTE1aTmRISFdxa196MkwzQk5aUmpFaGtQcUpydGxsZ0RpV0hLZDJZUVg5Sl85VlBQR1MycHRtSHlPMzVRX2ZjZEUzR3hHYXRlZi00Tkt6ekdfTzhaaUNkNWdjUjhiTU5VdnIyNUo4czBZN05nSlF5Q1puT0I0Sm0zUUNrcFBOS2hQczV2T1pxd2NvRQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-beece18a85d8b824c796",
+      "title": "PlayStation 5: Kurz vor dem Release von „GTA 6“ – neues Update steht bereit",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-03T15:00:39+00:00",
+      "sourceName": "futurezone.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVpkT0pfb1dmNTBmcjJiOC04dkNPeGZSZWxuVlZvMXRMdWIwZ2RMaFA5R0tpSlQ4ZW1GWWlscmRJOGR6dU1BdVpsOUFSWjJMaDFJU3JmaGpBMDNFbDVUSW9jcG9ma3pRNFBLbzU3WktELUhZbk5WRjkyN285NjFRNllSWXZhVkxSOUVrOWJ5VnpJcTJVbFlWdkRmQ053Q3RHNnZjZmFrak9UYUw0aFR4YURNNTBNeXVCTG5jc3BTU0ZlRVhfOWRtWU42VkswTWhf?oc=5",
       "category": "feed"
     },
     {
@@ -787,6 +827,16 @@
       "publishedAt": "2026-10-31T15:37:00+00:00",
       "sourceName": "Giga",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcllEQ3pZdTRPdmJiVm9qWHFEeFNCRG41ZkxPSFI5ZTZ0Tnh4cDZidVpaVjVlOEtreGxScldpRm1jY29kZjBWN0dJNnRLTGdxLVJtZjB2WnA4YmJRM25VNW1ON2d4TENWWnV6R0xQMVpYV0lBTVJuako2Rmtrd19Tc21yVlpfRzNsc3QwejF0ZmhEcGZrQ3hjSl93aHJ0Z1pMZUZUTXhhS1Y0SUNPS1lqeEx3?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-e67ae2c89b7eab8d0589",
+      "title": "GTA 6: Downloadgröße geleakt - Spieler müssen wohl ordentlich Speicher freiräumen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-10-31T13:20:03+00:00",
+      "sourceName": "RND.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdFY4MVlEZ2lFU200dWFhdlVSTG9vUGR5YU9EdmNsM3l3R1JNLUFEVHlNc0NoMXRYQ0NOM0tlN0R2bWctU1lScHc5N0NBZURUN05wMWVvMlRBdW9zYW1OOWNOaGFpWE1qeDUxQW9GNVdWbTF5cjRveHV3V0VCVk9SdGxsR0VqeXpacFRaYVR0TEJqclhyZXJHYXAwckQ0dUlsdDdXY2tsU0syZTlKUDBFR2lKWWhjbmxMSjVsTnNSVThSWkFIcl84T2xFU3BZVWo1UmVGYWxFRzdnbzAycTRPOGlBT0ZWMDN5?oc=5",
       "category": "feed"
     },
     {
@@ -1497,56 +1547,6 @@
       "publishedAt": "2026-10-28T19:00:00+00:00",
       "sourceName": "GamePro",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVXTXhSUmtRWW51bGt0S1daU1hwa3NaVFNLTnp2U3JGcTNrZVhaWEpaMUloZ3dyVU9GOUxhcjdMTzZWbjRSUzFQYnc3YTVpRzZVNTJmb0p5UjZFOFl6TEQ4UWE5ZGl0SXd3ZWRlUEVBamhPS0Z0bW5OOVdON3JxcjZXU2dHT2lDTVd1ZVZuUHFEcWYxX0RZ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-9a37ed35a83b5761f62a",
-      "title": "GTA 6: Circana misst Rekord - so viele US-Spieler wollen den Titel kaufen -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-28T18:12:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVdaQWdPNEk4NnJjRlZvTUNHZUZkcXpUVnJaeWtUSHZpakkzdzlLd2NJTk5CV2lsYlJudHd4UnBNZkJDME9tTmlDbGhKVjMyd0p1N3BXUkFnMDdyYUxHdGh4Z3lObUgxWlhXVlhtWXRjMlMwVWtfbnVLXzlyaUhEUFZLeXRnVWxMdW9WZ0doMzVyTEZWSWJhOV90Sk9sQjBTUkp3ZFp3?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-1df14b005390661bfd53",
-      "title": "GTA 6: Wann erfolgt der PC‑Launch? Michael Pachter liefert Prognose -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-28T17:20:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTh3cG9qQUdWT0tSSEgxRzJjUkpDeHowSV80TkgweGhFMUdzWnJJSW0yMVoyc2hMOVVXS1RoZHZQMlk4VGdSN21ENFNYQU1Xc3h5RDFLYko0cWM5UmhXRDJ3NW1tMnhraVo2TEwwdVhxY242dDhicnJBNUsxcHRtNmxmRUx1YmxpMExZSC1GSE5ENlEzcFlJelUwTlotdEk?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-1ad425642eee79f839ae",
-      "title": "GTA 6: Jasons echte Stimme, 210 GB Download & Embargo-Leaks! | Radio Buschfunk mit Heideltraut",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-28T16:00:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFp2ZnB0TG5EdlZUUFZNa2NjLUpKcmlleDZaYUJyRlRUSUY4TE5sTEZGWURGenNob1lzWFlxVnRCaWJXclY0SWgtVF93MTB2bnpTVDJSYlI2R0xiUXFzWVRCdXlPM1Ztbjd2d3BaSTN5VkxEZTQ3Tl9YU3BielBVNDdfQ18tZTdVYkd0QWNtaGcxVTlrcm1Nb3RZSWlHOGVZUTMwOWVRVFBBTzB5VW5UTmZBc2pVUGkxWjFwY1BFZUZ1X2h1TnZoMmtB?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-68aea4328a714b91aafb",
-      "title": "GTA 6 erlauben oder verbieten? Medienexperte verrät, was Eltern wissen müssen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-28T15:27:09+00:00",
-      "sourceName": "familie.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1hlY0thc3hNcFV0bWh6VW4tU2cwa2FKUDc1TVVQaHotREtVR2NTTV9TaVQ5OXZRcHFXZzNFODY3QnpzY0JaRWZ5OW5iaFpYNzNjM2lrYVMzenBleHdKRkp0X3BkQ3BxVHpRR3dPVHZyc2lsNHVEci1fNENIY1B0NzJWNEF1ZnZIa3hLbFpfdkh4bW1IRVZLSFBlU0tqdkxaTlptVk95QWlGcG1tODkwOXAtOGdkdHVXNDZFSjNlT1EtNGd3bHNkOUNVMmxUYVh5cG1vVW9sMVBxZw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-a013e53e3439b5a23cde",
-      "title": "GTA VI wird zum Speicherfresser: So schafft ihr Platz auf der PS5",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-28T14:07:43+00:00",
-      "sourceName": "ifun.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenRqNGYtYVRlNGJRd3BwZ1FlR1NVVGtZQjNRaThneTBJWHBHREYwaF9yZ1lfSHhrZnRsNHhvZE5Wb0Iza0kyQzZGQW01ZlB1YXFoVHJRTWZhYjA0M2pHaThlN2MxbEJpb2NGZ3dGV29LRExCMVN6eEFHYkF0Y05JWmRGZUlsZ0Y1RWRzYml2Y0t4amdjWXc?oc=5",
       "category": "feed"
     }
   ]

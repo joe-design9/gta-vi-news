@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T23:47:23.523527+00:00",
+  "checkedAt": "2026-11-05T07:02:57.201625+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,26 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-8853f2735e172b8f5b30",
+      "title": "GTA 6 wirbt mit riesigem Banner in der GameStar-Heimatstadt München und wir besteigen extra dafür einen Kran",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-05T06:44:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXZ3ZEFKNXo2T1JSNmhwU2FNTmc1Vm1xRFJpcGM2WmY4SHhMZE5zLTRLelRZUXRqNktnYVM3MjhwTjQ2NjlfS0stM0loV0QyOElxaDBIZ21Bc3c5Q25sTV9FdDQxcDlWb1UzbDFVa09OaFZfMlp3emE3TmpobDQ5QzBTNzVFdDM0OTJTaDR4R3JYUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-888aa336019e4dc70227",
+      "title": "GTA 6 auf PS5 mit Neuseelandtrick schon 12 Stunden vor deutschem Release spielen - aber damit solltet ihr vorsichtig sein!",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-05T03:45:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkpfTE4yQ3pZWlpXTldpWXVYSFJYRG5aTW42LWx2VkZFUFdGMFJaMnlJNm54Wmg1MEE0RVdhbDhpeUNCcnpHT29yX1lMUmhJdjdhWFNrbXBvNXp5NFdoRmN2YmJ1aGlVdk80T1ZFWHA5eVBkbWZ4SExjdTgteTg1MkVDLV8tMDVWVjhPRXBtNXJGeW1i?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-35c8b3559fc0aff2ed1c",
@@ -597,6 +617,16 @@
       "publishedAt": "2026-11-03T13:47:00+00:00",
       "sourceName": "PLAY3.DE",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGVGeV8wTllXcVlNSEJCU1BoRklISnFPMmVWUGZFdGEzQTBNak1VX1NJOWVmQXl0T2daelNVZFZXcE9oVlY5cGRrZ0UxeXJscTJ0c1JLRkIwT1V1dzFjeHJWRmZINnNGejRFd24yWmFTQW1rcEl6VzZrSzVMV2ZidndLN3hsWDA0QlNENFVvXzlnRHZO?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-2bcace68bf144b2930d3",
+      "title": "Die Börse scheint sich für Take-Two kurz vor GTA 6 nicht zu interessieren",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-03T13:38:07+00:00",
+      "sourceName": "NTG24",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTHlOWWRJczhjRFhVQWNkR1R6ajA3ZEJtVmZldFM3SVJzMXNuaUlSdGFveTVhaUQzUW03dFk2bkNKX1JIbGw4LTl6bFZDZnV4UUNjRE1EOTNSNU84M0JMMGZvbE5UYW5pV0dV?oc=5",
       "category": "feed"
     },
     {
@@ -1517,36 +1547,6 @@
       "publishedAt": "2026-10-29T14:00:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83NTA3Mm9KOTAtbnAyeVZuZ1hpNVF6RHpDS3FnTEl3emRObWY1ZFpyTXNmSkdqTUtsQzNlWXg4el9SazFkWDBxbkRNall2YWQwOWQxLTVkdTBETG9iUXJzdmtXSU1wWWc3Tllqd1pjTE9aQmM?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-c82fe63f708b94791d60",
-      "title": "GTA 6 erscheint in 21 Tagen: Neue Infos zum Rockstar-Spiel und alles Wichtige im Live-Ticker",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-29T13:58:51+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvakdKelNtNktDXzljVzJFbGFQUE5LSURlelRiN2hQV1ZyX3gzRzFTZzN3V05hQ21xSHNBMWY3dURNV3dZRlNGOUcxb3lCSmxOT1pJUGVRX01BU3BzRXg5Z3NnVzlaOUFlaFBLTU82S3U1OTcwT29HZA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-1bd34dadf292f30fd32f",
-      "title": "GTA 6 setzt auf Busse und Bahnen wie im echten Leben",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-29T13:40:00+00:00",
-      "sourceName": "PCGH",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUm9LU3Z6Y05BSHZ6SGloTE1tQTJkcEcyZnJoZjBHSW5fZ1hOMHlvb0d3SDlZNHFTR0FYdGlPV2lmdnhxR1QycHh1dmZBRWxTR0VDSTl0bmp6dVAzZ2tkSDBNejRpbXZQal9tMUNmWU5HTWxPRVM5V3lpekQ4dE5pSEtOa1VWejRBVDAzcEdRaTcxS0otaEhFcklmdnJHd2ZYaTMwVWtn?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-8a24239dcacab0161e2d",
-      "title": "GTA 6: Story, kriminelle Profile & realistische NPCs – weitere Details zu Rockstars Blockbuster",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-10-29T13:29:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMDVmWVlrXzN0WDEzZURwak5XSXA4NWJKNXZ0d0xxRDhURFZ3aVpkc3pQRTNUbEFsY2xXU3lIdUhEUTgtN1g5VTFSZUg1dHZ3ZGNacWloRDNZYnU5eDd3akVmSmJuY1MyNlpJUHNtWVFsYXNtSTFpcUtQZ0xacHRDMF8xczV3cHlNM1ZJTTYxV3NMQUFkcXhlb3R0SEhxcmxvYUxxZndWajhELXZYeHhOQU94Yzd2RjJVZkQ2OVF3UQ?oc=5",
       "category": "feed"
     }
   ]

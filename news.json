@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T02:57:22.796737+00:00",
+  "checkedAt": "2026-11-07T10:29:08.327340+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,36 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-406e8c85a8007de8bc90",
+      "title": "Für GTA 6 krempeln viele Fans ihre Gaming-Zimmer komplett um – sogar in der GameStar-Redaktion herrscht Umbau-Fieber",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T10:12:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjAwcHVLYTZCRkltcUJaazNUSFN1bEpoN1BfWS1UbG5WOEo1R0NBRXZBbWQydHVuOEk2RHg3YkIxTVE5b2FqNDEzNkcwYWdlQktTOVJsSWw2cXNMWERVTllWZkozRlp4aThfUklPSFdvWmFWanpXTUNSLVdpRmpFaGg4WG5zRUU?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-bb218b0c5d299c3a76c9",
+      "title": "GTA 6-Fan steigt in sein echtes Flugzeug und fliegt 8 Stunden am Himmel herum - die Route ergibt ein geniales Artwork des Spiels",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T08:40:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWcwVFg0cW1iUDQ1bVlfWUMzcC16T2EtWVd1WW1JbFFvMUM1VURlYndLS0Y5Uy00dDgtM2t3UTR0RWZTaVduc1NWUXJuOFZ0OUNvUUh2YUdWaS1fd0haYTVzMVo3RVdCbThqREREanZjZENONEprNTNkQW0xeE5oczVCRV8tVHpHbmc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ecc8e499c85db6093078",
+      "title": "Playstation gekauft, Urlaub bewilligt: Zwei Redakteure zählen die Tage bis \"GTA 6\"",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T05:00:00+00:00",
+      "sourceName": "derStandard.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkxKNldJdm0xelByeDR5M3JYdVJaWkMzajJ3WTI1bGQ1RE1SenFzSU1jdnBRTlhSQzVhUzdBeTRvXzVCaEd4MklRaEhXcHNULS02dHlHcGZaTlBncTVhczZ0a0VHMTNzd0kzTEtpOGJNVU1tQk1yakpOMmZ2dy1GQVQycnZjQWdjU2EybnVJbEhjTXREVHJrWndFYjhtV2RXYlQ0eXZkX3FjV2V1LTRheE9WdWc0MEp6WVBtYmhGbGk4THhZ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-9613274c2d891debde49",
@@ -230,6 +260,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-ff682abea5c002fa9ce7",
+      "title": "PS5 rechtzeitig für GTA 6 mit Rabatt bei Back Market sichern",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-06T12:05:01+00:00",
+      "sourceName": "Golem",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGdrdTh2QWJnVnZtQ2F3TmxEWGhOajlnbjBBOUd3XzhoZlptYzBpaUlzWUtkM3F1ZENQSWVVMWduc1RZcFBQY2Frb2NMX01fQ29ZbDVSbDhwWEo2N1VZNGxPVXFwclVLTWFJTFNrU1ByRWxKUVBRYS10UEdnYTdnaVBqWnR2bHlvcnlPNGMxcUttNU5NNmFnVG9QblRjQ09XRDRWSDlqdTdaS2lWSkZIZzJB?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-71b97eb549ba4f2762b0",
       "title": "GTA 6: Screenshot-Feuerwerk zeigt Vice City und Leonida vor dem Start",
       "summary": "",
@@ -237,6 +277,16 @@
       "publishedAt": "2026-11-06T11:52:06+00:00",
       "sourceName": "Hardwareluxx",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEdVT2JvUk1hTUxBblVWby1FcHVNOFVqenA0VFB0b2FlS2o1am1wTEY0UDZITkstZDlKenZkclA2ZUxrMkY4LWphX2F2ZEVKLXhaVHZ4a294S0V6cWx1My16YmExRnRDUmNjTGxhSWFIb205cUF1MVpFNlRlaFpOWmFxdGprSFFwTHdWQWpoUXNiZmIxR2VyQjBBblZYSmFhUVBiaEpNMzBvR1o0TWpBd3g4b1BfbWZjWF9RVnhEb1RMRjhnUklOQ0h2bnlYT1Y4N1BIRg?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-e2af08baa2204c22c89b",
+      "title": "GTA 6: Rockstar veröffentlicht neuen Launch-Trailer mit spannenden Hinweisen im Video",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-06T09:24:18+00:00",
+      "sourceName": "BILD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHpNY2pkTVhpLTlwTldYVkhQbVRKMWptNjlydkxLaFlIMnN4MEhXWkF0Q0dxdGJfdGw4VHhyYVQ2MmJiWDlJNHJkcHB4SHdRZzY3M1NMci1vQjBZS0xsUUItRjU3OElENzA3VHRhM01uUjZucXllZDFkVjFvZGJnejhZNjFXeHcwd3ZFRE5vbkNWNGxBX2ZRTVlUNTFrQXE5bHpCVXdybUY1LWQyNFJPcVJGVXlfRTV4U1BV?oc=5",
       "category": "feed"
     },
     {
@@ -1497,56 +1547,6 @@
       "publishedAt": "2026-11-03T04:58:00+00:00",
       "sourceName": "Spiegel",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZzdYdHhUZWRPT3BVN291cGtkRE9hVW02TjRWcURQSjd6WU9MRzk0anV2b3lZVEx5dmZyeEVOQ0hBTnhVakI0aFhldGdKMXl6RlRPcjBrTlRyc1d5Q2IxaVo1X2kyWFNVSFpLRUI3U0xOcVU5QXo3QXBzNHlMUnJZaXRuSWxTYWxTYkVUTmNWalJTQnBVeVBoZDZhb1ZQdkxTZTBPZ1g3MUFuLXVtUmN4Q2J5RkVoYXlwUG44ZWZtWUM4UUNOREpxSXBhRmRnQ3VfeUJGYWdwcWd5RFJjREtyQlEzbw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-c0758896a239544a7fcd",
-      "title": "GTA 6 vorbestellen: Box ohne Disc, Preload ab 12.11. [2026]",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T00:57:14+00:00",
-      "sourceName": "shattered.io",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nMl9oWG9jUzkwaERicFNJYl91TlBUaDFYSk90Q01ZRklVVXhDRGF1RXRHV1UwQUxLU0dhQTVYTmw4R1Fsc2xnZ3JEMjdyUmVXNFpqd2hBcTNkYVhHYnhiTE5jZGRIOF9aVWNjRnI2Y3JxOUtvR3BXR0tLdW9fazA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-c90ac3b1e77c48f06829",
-      "title": "GTA 6 für PC: Release, Systemanforderungen und der aktuelle Stand",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-02T19:17:39+00:00",
-      "sourceName": "4P.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzBoNENvdjVFb1o1a1c2U1ZXTVRjMEdCUkFoaWhEeXpObWxBVjdLQTJKaFRUMkJCQzhuZFQ4NldwNXlzcUpSaWkwWlhMaU13MkhPUGhGMkFNMUxLaUxlWmNaWkktbzVKSDMtT08xVVJLWmFJVHRxc3pZdnJtVjFpNUZvZHU2cWhmZkMycGpB?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-7fe7d450eb6f930be4c3",
-      "title": "GTA 6 ist noch viel größer als gedacht: Diese 32 Details verändern alles",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-02T19:00:53+00:00",
-      "sourceName": "DailyGame.at",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1paWIzX2Jvb0RZQmxKWGZta1pPRm56X0J0YjhCV0k1dE12OUwxNkkxWC1FZXBiTGNUeGtSOXZ1Ym12VXlXM2wzdnpfVmw2NHRyQUpqR0EzRzNQMnk0eUtlQm0tODJPMmNHekE?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-113e4a476a3968ad362b",
-      "title": "GTA 6 »misst« euer kriminelles Verhalten - Jason und Lucia können komplett unterschiedliche Verbrecher sein",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-02T18:38:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXF1cG1pYmwxMmZFcGlTZWZ1THEzaGhDdkN2Rkh6bEVKczBMQVBKdGVOcTVRQTRvN1BGVWFWNEw3TWJ4anBBTjRJT01UMVN4MXdXRzBIZnNfSDRTazFBQi01UGRfNDFMSjR4dGFKNU15QTh3R3JzdnUzRUc0Q1FnTmtCVkFtdUVfRUFnOENwQTZyT0JzREdIRlczbUx3ekZQUkg0?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-84104051dd37dd2fdadf",
-      "title": "Zelda, WoW und Co.: Wer kann GTA 6 im November die Show stehlen?",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "sourceName": "ComputerBase",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3p5b21QQUJtX0U3X1JlZVp0UGI2NzF3MjgtRkczZFQyWGlPdHVmSzMxSlBPWi1xbm12VWJQMVJqZUJpZV8xLUxueW01d1RUQWVmSC1jS2ZtQmdLTFo3OERPdXZuSjZiZGg3cjFjR3MtMVN1ZGdGMzNHeHJLLWVVQVBCQ2x3RmdUbC1IRmduRHNVVk81VVdIWGZpOF9NRU9iSHdQQ3ppcThGbXpV?oc=5",
       "category": "feed"
     }
   ]

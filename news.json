@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T15:24:02.579977+00:00",
+  "checkedAt": "2026-11-08T20:38:31.431500+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,16 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-41fd6a07ebf8ddef6e53",
+      "title": "Bildungsurlaub für GTA 6 nehmen: Ja das geht tatsächlich, aber ihr seid wohl zu spät dran",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-08T18:00:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5McFYyaUdiOGUzNVFaWFVXNzVOM2hKTDQ5UlZHbjFDdzNXM09tUTlLSHlLdlg4UmUzcldvV1RqczRfZ0RDRUxRcVc1cmFac2cySDA0QkJHV2tIWkhfQkhvNkZlMldMYTBUWE1FQm1iV2pGUWZUbVRTVA?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-21506a3dae02ac2711a1",
@@ -127,6 +137,16 @@
       "publishedAt": "2026-11-07T19:49:13+00:00",
       "sourceName": "BILD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhkeTAyemlfU0NMeGRYLXVrc18xNk5BYVBKOU1CZm5lNTVDMUpSX1luRDV3Wk1wNmVaektvaDlJc1I5WExsMWI1Uzl6MzQ1LU9tWkk1emFZOE1uX3lEQkl1c1U2WG9xd1B4VUx5WDI3UWVrZ2twVXIycGN6MTJsUDVQVnFhS3ptYjh0TTM4NGczTy01b1Z5RzhHUDdITzlHRHJFdVl3TWpCWDM0RTVFQmdYcThhdmppOG50amZ0MU9EN2dTWkhjckd1UVowU1ExVzBv?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-0b9e5c7da961000c6bb0",
+      "title": "Launch von GTA VI: Sex, Folter, Rassismus-Vorwürfe: Das waren die größten Kontroversen der GTA-Reihe",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T17:00:00+00:00",
+      "sourceName": "swp.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGUzNzhYbGpObW9KbkhrSHd0WGQ5eXJlc2pjNGpwcFB0Sy1TSEs3MzNGRXpYcmJvWGZXZGV0TWhsNUMxU1VzbW5vRG15MVBRNXVuT3g1amRfZW9wU185b2wzYUFiTFNJR1NKUHdROE1zd21NdTF0bi1Zbk9rZkNUeFFzenhyWjlGSXhpc1JZRHlwbTZSdm1FZE4xUG03NjRvejZhS1VUaldqVll5UTQ4RlUtZVdaNXV4SklSbFRwSFQyVmJpR01wby1qbzduUGs5S2VHeW5GNC1mcXNuRmc?oc=5",
       "category": "feed"
     },
     {
@@ -1527,26 +1547,6 @@
       "publishedAt": "2026-11-03T16:00:00+00:00",
       "sourceName": "Games.ch",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80MU93ZGlBcGJvblVGTTNiRXQ1bEtyeFZfNXFHVFJKbmlzMUg5YkV2ekYtWk01V1BCNlBNRVBNcUdFVWRud2Z3YUxENjhHVEY1aEVrYXRTX2NiSUNzc0VFZkpVQWg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-e15346611e8462937b12",
-      "title": "GTA 6: Rockstar bestätigt riesige Download-Größe, Preload-Termin & physische Extras -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T15:52:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFpCb1FQOTVZSHpycGo5MjZPZGxxaElzblg3TTdmemQ2ZGxnS3E4SW5xemxwT0c4VXQ3MHdkQl9YTXdTWW1HMTRDX1dad2pQNmduc2plOXRjZWRBSHpTTUtNWDhOUlUtTXBoUjBrZGhEZnBoMFJaNFc5SHM0RHZhX1dhX21ublRSZmE2TERXVzlubVBEVFM3NGNlMkV4czVXeWhTem5VUEtfOHdZOV9TZ0hPZnNidw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-59865a9b992e3340e1c7",
-      "title": "GTA 6: Release, Plattformen und mehr – Alle Infos zum Open-World-Abenteuer von Rockstar",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T15:35:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0l3Qm94NTRiQ0xMVGNZbmxWaWR0dUZlWkoxUzcyOXdFZExUcTc0c25HVkkzUmljVkctZ0RCZjRnUWdIRUIzeF8xemRqQ0tsY1JjLUJwNDFieTY3LVc1Z2YzR0dTbXhMSm5sb1hEOVM5Wkt3dUpEOWxqUzVHUzNWbUowN25fMnZtaDk5VlVSNUZwdw?oc=5",
       "category": "feed"
     }
   ]

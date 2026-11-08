@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T00:48:10.754094+00:00",
+  "checkedAt": "2026-11-08T07:32:11.891738+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -57,6 +57,16 @@
       "publishedAt": "2026-11-07T19:49:13+00:00",
       "sourceName": "BILD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhkeTAyemlfU0NMeGRYLXVrc18xNk5BYVBKOU1CZm5lNTVDMUpSX1luRDV3Wk1wNmVaektvaDlJc1I5WExsMWI1Uzl6MzQ1LU9tWkk1emFZOE1uX3lEQkl1c1U2WG9xd1B4VUx5WDI3UWVrZ2twVXIycGN6MTJsUDVQVnFhS3ptYjh0TTM4NGczTy01b1Z5RzhHUDdITzlHRHJFdVl3TWpCWDM0RTVFQmdYcThhdmppOG50amZ0MU9EN2dTWkhjckd1UVowU1ExVzBv?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-3e2a617513016113c9a7",
+      "title": "WTF: Pilot zeichnet Artwork im Stil von GTA 6 mit Flightradar",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T16:49:00+00:00",
+      "sourceName": "heise online",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVhXTUtDcHVZZ0p4WjdWSURCR2ljRG1vTENaMnlyMkN4UURXNzJabzNPSWZqN0RoalF4c3U3cmRSWVA2dHEtVjB6M2dMNGhPRS13NDFPUGRVOW1YNWc5LU1tWWFkV00zZnphVFFkV1hTaUFHTWxITEMtSVNEQ1Y5OVV2VkRvTW52ZkRVODZTanpXWjlZeTBWN1c1Z0M4UklsSFE?oc=5",
       "category": "feed"
     },
     {
@@ -1120,6 +1130,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-b140f60395241fb288ed",
+      "title": "\"GTA VI\": Vorab-Download startet am 10. November",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-04T10:17:05+00:00",
+      "sourceName": "WEB.DE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGRxSjliakh1di16anRzdDZBLWJJYWNleDk3NXJnSTR2QzBGUHNISjNsY1pEbXBhdy16YTBnd1FKbEFOR2ZaTHRIU1pyUGYwcDExb3dHa3JSRWV2OXpzN3lNLW9vczNGWC15eWFOTnRQQ3lsRnBIUmwwaXhyMVM0bWJzVE13bHZuM1BjUXNNZw?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-41c2b7d5ff3c9056c5af",
       "title": "„GTA VI“: Vorab-Download startet am 10. November",
       "summary": "",
@@ -1527,26 +1547,6 @@
       "publishedAt": "2026-11-03T15:00:00+00:00",
       "sourceName": "IGN Deutschland",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1p4bHZDUE11R0pORUNRNDNmNk51SDlLWHNTZFpJM2ZhcmZqTF8zUDFzeE1CZ3F0Q2JRRlVnZ0NDYjBOMFdINl9CVERwTHF4SEJfQjl0TFVJZ1pDNWRJNHAxVTZhdXo4VlJqN0lmQkNqVXkzN1hQRng1eElVUV9MbjBhR0ZpWVFEeXZRNlZ0Wm1LLXFKRDU2OTdNbFYtSUNrZHlPYS1tZ3ZyeV9nbWs1dUVaX215QW5XdlhTUUluOGpCMnRTaXhXVW01SzE4VXVNZWZSYjlrYmNwcjRrelU4?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-b4a7ba74407dbd25e4e0",
-      "title": "Retail-Kampagne: Spielzeit für GTA VI vertraglich geregelt",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T14:14:19+00:00",
-      "sourceName": "invidis",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWElVZnkwWXhqVW9LWlV5VEhmQjFKSFhZbTVqOXd0c0UxYXRBcFlRNnU1RnJtQmlJMUhzUkpVa0hGbkRScHRaWmVDV2EzMUU2aGZIZUxRZ01haC1nMmRvcmxYUzVTT1FWLTlZbDUzZkxnS240b2llWGVkLU1xenRicWE3M01zYjR2ZDRFalJCUkM1VUJOa3JVN0VVMA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-f666894f4dccc4c88f0c",
-      "title": "GTA 6: Wegen Arthur Morgan – Romanze wird nicht aufgezwungen -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T13:47:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGVGeV8wTllXcVlNSEJCU1BoRklISnFPMmVWUGZFdGEzQTBNak1VX1NJOWVmQXl0T2daelNVZFZXcE9oVlY5cGRrZ0UxeXJscTJ0c1JLRkIwT1V1dzFjeHJWRmZINnNGejRFd24yWmFTQW1rcEl6VzZrSzVMV2ZidndLN3hsWDA0QlNENFVvXzlnRHZO?oc=5",
       "category": "feed"
     }
   ]

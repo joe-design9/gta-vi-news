@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T20:59:21.038597+00:00",
+  "checkedAt": "2026-11-08T00:48:10.754094+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -780,6 +780,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-ec1c365836f22ca6b35e",
+      "title": "Endspurt zum Rekordspiel: Das steckt hinter dem Hype um GTA 6",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-05T11:29:27+00:00",
+      "sourceName": "Augsburger Allgemeine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSWQxU3BpeWFJbVAzRXJpTDJHdmdtY1dGS2MwRXFQeTdpUjVKSEVFTmxiU3BQRUVqVVlVNVZ4Yzh0SDhIbkRlUEgxMFExREc3bkZRWUhTYWFldHNoQlJQeDVsSWFBRS03ejNiYzMtMmRSa1VPOXhZbE4yMGVSbjJxb2Vrd0Q2YXA5MnhqQ0hwZm1UZklGZm5hOVBoamprRHI1QXRJVTRtM3c2ZXA5MmpWY2E2VWVpWWhEeVMzanRIRExBakkyYWptOEU4MHFUakhMWGkxcXRIYVA1SjU5LWFzbWR4ODNuTHFSSi1PZmlEbTlzT255S2c?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-0418ec399e2169460a05",
       "title": "Grand Theft Auto VI : Wann startet der Pre-Load zu GTA 6?",
       "summary": "",
@@ -1537,16 +1547,6 @@
       "publishedAt": "2026-11-03T13:47:00+00:00",
       "sourceName": "PLAY3.DE",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGVGeV8wTllXcVlNSEJCU1BoRklISnFPMmVWUGZFdGEzQTBNak1VX1NJOWVmQXl0T2daelNVZFZXcE9oVlY5cGRrZ0UxeXJscTJ0c1JLRkIwT1V1dzFjeHJWRmZINnNGejRFd24yWmFTQW1rcEl6VzZrSzVMV2ZidndLN3hsWDA0QlNENFVvXzlnRHZO?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-2bcace68bf144b2930d3",
-      "title": "Die Börse scheint sich für Take-Two kurz vor GTA 6 nicht zu interessieren",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T13:38:07+00:00",
-      "sourceName": "NTG24",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTHlOWWRJczhjRFhVQWNkR1R6ajA3ZEJtVmZldFM3SVJzMXNuaUlSdGFveTVhaUQzUW03dFk2bkNKX1JIbGw4LTl6bFZDZnV4UUNjRE1EOTNSNU84M0JMMGZvbE5UYW5pV0dV?oc=5",
       "category": "feed"
     }
   ]

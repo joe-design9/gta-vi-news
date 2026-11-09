@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T20:38:31.431500+00:00",
+  "checkedAt": "2026-11-09T01:01:54.854902+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -127,6 +127,26 @@
       "publishedAt": "2026-11-08T07:30:00+00:00",
       "sourceName": "PCGH",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU03ZzV0TlZZVmdUQndGbldXU2hNQmRpbHl3U01wRFRhQklINDY3cFMzZVNHWmh3am1YLXVsZE1LR25td2NQcEhRUW9aeEUxTmlpRHlMM0U1Q010N201VEFXLVZ6cWgyOWFNUDZJT2xCTXJoVFZOeHV4UFBsc0ZlME9yNXpvSGozWmNtMDZBSkh0UmhGYVFSWlpxVGw1emtsYzRxbzNYWDJrU1l4dE9mTU92dw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-d8b168b1ba07e79aa2d6",
+      "title": "GTA 6 übernimmt mit seiner Werbung gerade ganze Großstädte und das Internet kann nur staunen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-08T06:55:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemdUUXQxb2tMWlQtb1JMdUMzNWg5LVU3LU02RFg3YlR1SVRFaUR2X3JGaGtpNXU4Y2pDVktOWXA2blhvamVMWm82ZUd5dTFmVjd0dmpJTURHYzFfOE5UbWpzTXdCVUpMQk5pVkFKSnZCUlVhRWFkMWJYcWhKUkRZRQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-bd17319d818637fe5d4f",
+      "title": "GTA 6: Offiziellen Soundtrack bei Amazon jetzt besonders günstig vorbestellen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-08T06:51:41+00:00",
+      "sourceName": "Netzwelt",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTc5b01WYXFlMGpwTjJuNGV1akRYcVRKWEViMmV0TlJhNkJvaVFjeFE1MmxtdGE1bFlKOF8wS1pYQTgzb2NYeS1kWWJxYTdmSHlHQ2M1Rk9SQmFfMi1wVGhpUVFzZl9pX0t4LUxHRkYtckRoRXdWUV9jdjVFMU5LTk1fN0tQOXBFR3lHRDZhbTdpbHRjcnVoY3lQZnR2WGloUHNVWXdwMkdaMU9GcXZZWXhGWE1YRjg?oc=5",
       "category": "feed"
     },
     {
@@ -1527,26 +1547,6 @@
       "publishedAt": "2026-11-03T16:40:00+00:00",
       "sourceName": "PLAY3.DE",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZLeVZvN2JZVDRWTGpTcmtGMWpfZFF0R1RFakJ2OFJuV1gxZGgtMzA2clQ5c2RBU1Q3YWhvY3kzN0MxQ0cyeE5wMlowdUVTWWlfY0hOTU1rQWZ5c1VwWEp4V3J5SWFxXy1fS25HSUtSYmNRQzJ3MkxyQk5zMmdRdnIwU19KWHpLSmpqeWNENElGcmtkV2x0LW5XSjhTX1RPTGxwaGl1a1UzWmtmUXN4NE91aFVURlU?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-d6744c40b61e87621bf0",
-      "title": "GTA 6: Es gibt einen neuen Preload-Termin und eine offizielle Download-Größe",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T16:00:00+00:00",
-      "sourceName": "PC Games (DE)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGRVVjFacF9DQ0JvVDBOYWtKZGV6RjVqT1hsV3FtdjZjRVlOM0ZnY3R2Nkx6d0dIYkVwVHRZbXFwZlpGN0o5SGdRaS0yeHc5cHdpQVVnY2pKQmx4U2FnSl85QW5MMW14TFR1Tmp0NjBVYzBJUnZ5SWFmbVBqSFRXZUliVjRZV2R2RTRxLWc4amw4TWpZYWc?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-15b497961e25655395b7",
-      "title": "GTA 6: Der Preload startet schon bald",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T16:00:00+00:00",
-      "sourceName": "Games.ch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80MU93ZGlBcGJvblVGTTNiRXQ1bEtyeFZfNXFHVFJKbmlzMUg5YkV2ekYtWk01V1BCNlBNRVBNcUdFVWRud2Z3YUxENjhHVEY1aEVrYXRTX2NiSUNzc0VFZkpVQWg?oc=5",
       "category": "feed"
     }
   ]

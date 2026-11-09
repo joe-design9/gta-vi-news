@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T01:01:54.854902+00:00",
+  "checkedAt": "2026-11-09T08:08:55.697297+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,56 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-8d9ed6154164ded60a74",
+      "title": "GTA 6 als Bildungsurlaub: Warum ein Videospiel-Kurs in Hamburg Kritik auslöst",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T06:59:00+00:00",
+      "sourceName": "Hamburger Abendblatt",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTDZLcE9iWm8zaW9aWU1NbER3VVB0RTdnalpLMTJLb3FGWGNiaER4OFBFd2NYT0g1YnhxXzlpcGJWdGN4RUR6bEpvQkUzSlh2WU80cnFmTUZpR01Wb1ByajBQNWNGNTZ5TGg0Z25xT25vYV9lWFRVSWY1ZldzbnVXOG80TnNzTDg1czUtUzlWS1BwcVhKSFFQeEktSFN5TThVSWVHV0VwSzEzeGpnQWJxQ3o0YVNyODR1YTZrMzU4eldwQXB4NVNvODg0anZscmdpenJZb2lFYktrRzVT?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-e587580cf8751843551f",
+      "title": "GTA 6 PS5-Vorab-Download enthüllt vier herunterladbare Add-ons",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T05:46:46+00:00",
+      "sourceName": "GameGPU",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHhjaEZkQXFFOUFqQ2tMX3FVLXJHSjZFZWlXSjNDcU9nUXNYMjRhUnVVaW16aUt2X2prSlpzTnpqRHI5NFVvTmZ2RFpNZ2xNOGRSZXZBbUtEal9LNjF1eTZBcWtHQU1kOXNfTThmWGI0VjRTNVRKcUxSRE50QzRkODNJYllncmUtOGxrd1htallybTBPNy1aTmRQVENwOXZqNkpLSU02R1l3TXYxLTY5ZDdmTm1ONHZuWXYzNDNlVXFxdw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-21fec065a8f5c97fa308",
+      "title": "GTA 6 wird so groß, dass ich nun 200 Euro extra für meine PS5 ausgeben muss",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T05:30:00+00:00",
+      "sourceName": "Mein-MMO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kZ3VlaGNpV1kza1A1UElzSm5OQnZtQzU0YmgxTDVJeC1fVkRBQTVYVGVoa0s0N3JwVGN6S0ptV2hMY1E0Zk9raERpdlM0d1FNbG9GSlJXVTFCWG1XcnRrNXlsRFN1T2JwOXUzeUNYdHBYZE1tRFE?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-da5b2ac94f94577fe6ab",
+      "title": "GTA 6 Preload-Start heute Nacht: Wie ihr den Download startet, Größe und was ihr vorab wissen müsst im Liveticker",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtaFRTUkNUbTc1M2lnbFcyaUFyM2tPR2t0bElTbWdzcG5iQnZMdXdScGtfNlUzTFlUOGtxbkV4YUI4YkVaeU43NjZCT29TcWJySnQwYjJiY0dPNVpuVUhZajlQOUV0R1pqZVNORUlLVzRrTTc4Rkx0WXNn?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-7f2159b2d2dbe63755d8",
+      "title": "GTA 6: Wir haben nachgerechnet - so lange dauert der Preload auf PS5 und Xbox",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T04:00:00+00:00",
+      "sourceName": "Netzwelt",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWQ2dUozV0cxVVU0Njg5V1RHU0djd2lPeVA1M0RIYzZiMkpoVGJYOWtyNU1GWlVxOGFDRmx4ZDFrWFREU2dtOWR3RXdNUWlsR1dDLWduanpSOXpTR2NIV093eUFLalZiX2hBM3B4b0VQNzBUdE5QaWphM1JWV1l3OUFRWkc2cUxETVNfZDV3dWJDd0NSY2ZiNkMyR2Nua1k?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-41fd6a07ebf8ddef6e53",
@@ -107,6 +157,16 @@
       "publishedAt": "2026-11-08T10:30:00+00:00",
       "sourceName": "PCGH",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWRKU3ZqTzR0NjlXMU9vSGJxSnI4UEZJTDdjUFU1SlVvRC12YWtfd1hxcEhURmVCLUlVc1ljekFUamNLME9jaWFZZkFvVWhsOEtiNFBqTnpiamt3Nk1WdlJBZDNyUFBSbWxTSXROT1Q0UjlsdUZObHV1OFhBbm5tM2Y1U1NMRlBhZ3pJRWc0UjNWU1kxb1dqdVEwcm1OQWNWUE0wUU9BaEppZw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-eb0511d90cf14c83f0c9",
+      "title": "Kurz vor GTA 6: Die 10 besten GTA-Spiele im Ranking",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-08T09:00:00+00:00",
+      "sourceName": "PC Games (DE)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV19YdWdESjBWOGJmcmdjZjBnaldNTldHSXZvRnRwdXlMR2ROS0syTndsZzFxWlBLRDZrNzRJeU9oNklUS0xGUzR1VEtnQXJCSExGa01hcU9mMWJyMVRRTFFaQWtJc25NYXg4VHBXU3VHdWttVGQyOFRzZWNlM0J3ckpNUU9jZHU2blFrcmExaFpjQXlVb1dXRm9YdlY?oc=5",
       "category": "feed"
     },
     {
@@ -240,6 +300,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-3e38579a0b21174ce084",
+      "title": "GTA 6 gratis dazu: MediaMarkt legt dem 75-Zoll-Samsung-TV das Spiel des Jahres bei",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T11:55:29+00:00",
+      "sourceName": "Netzwelt",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXlINmF0UzBNSVFtcGY0a0Z4dnNtOGQwRFRYdGxvNEVuNG1SZUJ2eGJWOWRZcUZuTGRESWI2ZnF1MGxzTWRqUFIybExKWGFoUEZ4a3pDREtOMEotSWVwNEVudXNaam9XZVpWMnNIazlGUF83SnhpWThkUEQ1T003ZDYxb1hwc0k3eTRoX2pTTTJLbWhEXzNNUkthcjl5Ti1XQWtvTnZDaU93OWhKWTlJOU1QX2Q?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-ebb5eaca68e2a9c01db3",
       "title": "PS5 Pro überall ausverkauft: GTA VI-Preload startet nächste Woche",
       "summary": "",
@@ -257,6 +327,16 @@
       "publishedAt": "2026-11-07T10:12:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjAwcHVLYTZCRkltcUJaazNUSFN1bEpoN1BfWS1UbG5WOEo1R0NBRXZBbWQydHVuOEk2RHg3YkIxTVE5b2FqNDEzNkcwYWdlQktTOVJsSWw2cXNMWERVTllWZkozRlp4aThfUklPSFdvWmFWanpXTUNSLVdpRmpFaGg4WG5zRUU?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-43a1b67afbf06ceed2fa",
+      "title": "GTA 6: Schwarzer DualSense-Controller wieder vorbestellbar - Limited Editions im Vice-City-Look",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-07T10:05:00+00:00",
+      "sourceName": "PLAY3.DE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTVsM2NienlWTHI5ZWFyWmRleVV3YmR6bTgwSk82ZEZ0eFpfRFQ5M2UxWGswWkF5ZDlISHVlQnNCd01PbTZneHdJZ0t5SUpYZFZGbVJCLVpGdVI4cXVNT0g5ZDBveFh0Yk03R2dJMmFUZWEwQms3M1Bwb3ZvNE05elpxb0RwRWllSjZtcDNFQk9Kc3p2WEllY0lvaWM0WmZOY3V4Sk9GZnpkZVhqX2s4dlkwN19pNjIydDFuRXA1eFhyYm8?oc=5",
       "category": "feed"
     },
     {
@@ -1467,86 +1547,6 @@
       "publishedAt": "2026-11-03T22:15:00+00:00",
       "sourceName": "PCGH",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGo1MGZNR20tUklJZUJxTk5CNWtQQUd5c2V3WXpnS3Y3d3BtOXgtRURwT0ljcmo0Z0JWR0g2NC0tSmtxcWN0Q1dKWkpUelNTODhuME9ZaWNBVV9weV9xcUZsd2dROHNTYXdzc0ZpRVNvTTQyelRWSzBMZ2lsajFZaFN6WUtaSVM1Mnc3Rlk0clg2aTZPXzNkdndJNGJnVEwtR1YtRFdUNV9QamM?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-f6d474e23620267284c5",
-      "title": "GTA 6: Preload startet früher und Rockstar hat noch 2 weitere Geschenke für die Fans",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T19:10:02+00:00",
-      "sourceName": "Netzwelt",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdkS29Oc3FndXNoYTVUMVBCRXpfbDV3VHFMZW1HamwtNDdvZ0c2bTNxcXBneHg2eTJlMXc3dGh1QkxtbXVPOWhmQy1Zb1dSN1hGWjRtLWFFd0xia29pbUtLcmMzQjhEMW5oTFZ0dlRXU252LVV4NndDZ0xLblNmRmplTFlwSDZRUmR6em1QVzVtZks1dFNxTkh0UkFMOVZjQW1n?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-e9ccbee7a8e6f980a876",
-      "title": "Edeka verkauft GTA 6 eine Woche vor Release (Update)",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T18:57:52+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdGJCUTY0aXBURklCSVh3MFFXQmNtZnJBank3azViZ0tqQ3doVHdnWDVsMVhfc0pwRG9ra2YzZmxhUDBnLV9ZYVlKc3ptX3dQWUNMbFBfak1vUm1yaWlEMmdOdVJMbThNWkxOeVQzc3BLdw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-af4ae3ed7885f3e1ba72",
-      "title": "GTA 6: Vorbestellungen knacken laut Analyse den nächsten Meilenstein – PS5 liegt klar vorne",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T18:52:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMkozNmR6dEJ2WWVLRXFEbU9lN21NWFpheTd4MWJCdndVaFhXc2k2NG5SUUY0OFloVnJpME1iWGxVNEFsZXlDUVI1dlJiYk9vV1F5bUZIZnQzRkxvNzI0QUtqTEVrdUJ0c3F3Qy1TaUpQRHpYR0dRckRhY1R0aTFNYXpST0lrcTNuc0U1OVpyTnVoV2hjT2FSc1c3MzRfTno3MGpnQkQwbFh3cDJQRGF1aHBpNUI2Q0UtYml0aExlNA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ba769892f9d29557e95c",
-      "title": "Alle Infos zu GTA 6 auf einen Blick",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T18:11:00+00:00",
-      "sourceName": "Red Bull",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZzMxSnJaT2dfeFgxRGVmUUZlWmNOenBwNE9CWE8yUDVSaXVNX2d0cnc1bzZ1LWREMTVMSG9qTk9wZ2t3aVZYQnVjb2lJWXJwQUg4dDRTLW5sbzMwMjZvYXpn?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ef56f2fcc20857abf63b",
-      "title": "„GTA 6“ als Bildungsurlaub: Zocken statt arbeiten",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T18:07:58+00:00",
-      "sourceName": "BILD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXdWcFZMWFpXRW1rQVRlQUJPUUJTMnd5RVN6ZkVhVkdHQ3hWUzVzdFIxeVhNMGxpYmsxbVBiVEZ5TVo2Y01qdUJpWUttdzZfWFNONDI2X3N4bW1jU3JNRDBjQ0Jyb3g0YWpFd1BISUZRZWxNY3RyOEF4V1VueEhOcWU4T2hQcC1xUEtpUG96aVk3OHdHNUEyWTRnOHZsT0xwTk5YSGp4Nk90Q25KZUlTNA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-35fb5bdd346c94158bbd",
-      "title": "GTA 6: Preload schon ab 10. November, Poster mit Karte als Geschenk",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T17:30:00+00:00",
-      "sourceName": "ComputerBase",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0RZdmpJdmlMRkVVY2d2c2E4cDVNaTd6SnFPTnQ2RlF3SVUxd0thM3N2Rm1yTnRXWklKSGNtRXM4N09DUjZGVGotT2MxRHVJdHVaT3BwTFREd2hiZmpDWWdOTlM3WnliRHN1VnpBTC0zekpDcnBXclRpeVJuNGR4SklUcGJPeUV6Rm9mTVhXZ252OVNodWVGVzN1S1hpc1ppSUFqOVllZmdpMDRELVZ4bWVR?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-b40cda262114853ef92f",
-      "title": "GTA 6: Starttermin für Vorab-Download steht, Rockstar verrät Details",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T17:01:00+00:00",
-      "sourceName": "WinFuture",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1acm9pUTNodHZ4OW1mMl9XRl93dkh4SGVQWjQxWmI4cXNycUEzdlhSYVdyZlBWQ0dsamFSeVlBZmZ2dGlHUUk5TS1vVTBMZw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-5537b8a23d98495631f7",
-      "title": "GTA 6: Wann wird der Blockbuster freigeschaltet? Rockstar nennt weltweite Startzeiten -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-03T16:40:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZLeVZvN2JZVDRWTGpTcmtGMWpfZFF0R1RFakJ2OFJuV1gxZGgtMzA2clQ5c2RBU1Q3YWhvY3kzN0MxQ0cyeE5wMlowdUVTWWlfY0hOTU1rQWZ5c1VwWEp4V3J5SWFxXy1fS25HSUtSYmNRQzJ3MkxyQk5zMmdRdnIwU19KWHpLSmpqeWNENElGcmtkV2x0LW5XSjhTX1RPTGxwaGl1a1UzWmtmUXN4NE91aFVURlU?oc=5",
       "category": "feed"
     }
   ]

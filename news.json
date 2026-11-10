@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T17:59:04.348787+00:00",
+  "checkedAt": "2026-11-10T23:34:44.330105+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,66 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-f3e6032f8a85d27ae0cc",
+      "title": "\"GTA VI\": Download-Start für gefeiertes Videospiel",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T21:56:31+00:00",
+      "sourceName": "tagesschau.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aM1h1YTFfRWh4NXljZXh1T0Ywbzg0YnpaQzhDSmZKcDB0Y1ZUUXo4bnVXVXhlMWpKQm8xSWt0a205dVBXbHR2VlFfWDhMaGFRZmdLQW5ZUGVtWmZaQ2ZJSzB1WVRLNm8?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-bc7e008d89283469b49c",
+      "title": "GTA 6 auf Xbox: Schärferes Bild dank FSR 4? Ein Haken bleibt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T19:15:00+00:00",
+      "sourceName": "PCGH",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZEWUJWdUNlWEJZVkVBU3FpNDFXWmh3Y1plVjhzRHdKWFoxVGpPdVFWLUtmQmFJMFk1ZkV4cjBHbVZzelNMLWJfdjY0YXU0RWZUdWo3U094bXlNMXktc3g4RnMzODYzLTVXODZXZEtkODc1U3d2Wjg4UTI1b1FyZGVpanJ5dVJLRm9ZSHRrVkpyZE9nZ25mZENEaWdGTWItRTNSag?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-fade375e90350bb3c542",
+      "title": "GTA 6 immer mit 30 FPS: Rockstar nennt Details zu Framerate und mehr",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T18:58:00+00:00",
+      "sourceName": "WinFuture",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMm5aS2IzWUNjY0gwWkUxdWlteWhUMVkxTUxCOUQtOG52TjIzSVVqLWVRUV92UFRscUl4TEpLRjB5OWYySVluUm1BLWktUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-15b42f1978544cfbdacb",
+      "title": "GTA 6 auf der Xbox One spielen: So bringt Xbox Cloud Gaming den Blockbuster auf die Last-Gen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T18:57:30+00:00",
+      "sourceName": "Eurogamer.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rUndtbS1kdjVQWjBYX08tbHQ2RTlpa3ZaOC0tX2U0ZERLNWE1aUs0WTEzcFhfVDA3c0R3d3REaDFQbGw5Z3lYNmg5cGtMcW1JMEppUVVpd2hrSERpMUVMTURnX1B1Zw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-9f32d835f166f486736b",
+      "title": "GTA 6 kaufen: Die günstigsten Angebote und alle Infos zum Verkaufsstart im Live-Ticker",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T18:41:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0g3bk4tNkFKMEJPWm50WFdnQjZjQnBkcld0cGJhUGQ1cFNPMlk3cjdPdm5rZmhBM2xNUVV5QWdiaHdfSXhDUzlyeHpfMktMeUxnOHBTQ3V3aHBOdUQ3QWlvUnRRQTBzWHMtQ0I5aDR6RjBrSVVUWVZ4dkFyMk9qZXFyY2JyQQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-9431ed9c41911e5e77a6",
+      "title": "GTA 6: Rockstar verwandelt Miami in Vice City – Marketing-Offensive der Superlative",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T18:18:59+00:00",
+      "sourceName": "RND.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVtelluSGZPajFTSm1wTGdPcVZKMWo4QjRBV3d0bWxQR0RPUjdvMU4xVDR6N1RDamxVUmVSTEVTakV2Q0pBUXZ6cXRhb3hoaElzc1dlYnFfZ2w4b2ZqUU9la1ByRkxsOHRYeXluUVBfd1VEaktZV1lTdGhyUktsRE03YmxLZDUyeXdXdk5COGx4NmUwRUwxRjdGWHBtNHYtWW90M2dsVjhRWThvUXRmZzBKQm0?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-83e6a145110345991fb2",
@@ -190,6 +250,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-9bcd7e9437051a881eb3",
+      "title": "Preload von GTA 6 lässt Datenverkehr ansteigen: So bereiten sich Internetanbieter auf den Release vor",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T15:30:02+00:00",
+      "sourceName": "t3n",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44Q0trcmVlVUQwenZ1bEFIN0RHUWd3SG12QXBTV1NSTzVDMkJnc3dLWU1XWWFzVVMwelpDek56a3AxVWpfaWVoZUM3czhoYm8yMnl2WU1rRFFOUC1STkt3RHNaS2otQWVNMS1tUUlDUGRBNFE?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-f58b06e5c5288922aae9",
       "title": "GTA 6 läuft auf allen Konsolen mit 30 fps und bietet auf der PS5 Pro Verbesserungen beim Raytracing",
       "summary": "",
@@ -227,6 +297,16 @@
       "publishedAt": "2026-11-10T15:01:02+00:00",
       "sourceName": "Golem",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVdrdGRwRl92Y2k1UkNXT3RWY1hXdUlWLU5EMXZxaTl5Y1VKY3pvYmhzNDdZOHk5QlFGTkpFV19SdmllODVnNUZWMDd6N0ExX0dWV19ua2Z1SldmM2RMN0pvTUlqWUU0anVkcmxzd0E1Zy00NFJYTWZvUnRYQXVLd3NaX2RtMUhCSVNxQ25Vb29WaUtVdVdicVNIUDBzUnhheFpj?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-23a106ab6e602d130609",
+      "title": "GTA 6: Für nur 1 Euro – Media Markt lockt mit diesem Angebot zum Spiel",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T14:59:05+00:00",
+      "sourceName": "4P.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHp6UXZub3gySHJPX0N2Wk4tVXVyNU9iZXFHUVpvbWZOOVU3bWg1blZyMlQzMHdoUkdGSlNWNTE2WjBvLWVyRUpJMXlZOWxDT2dJbVBRSFhxN0RQVmsxbFRhX1hWWnU3MHNoV3dlelM5YkF0OU1GOXlRQ24xSjZRV1l3SVhfTEJqdjQ2eUFmbXY0RE1NSFdwaW1ZWTdBZF9w?oc=5",
       "category": "feed"
     },
     {
@@ -287,6 +367,16 @@
       "publishedAt": "2026-11-10T14:23:15+00:00",
       "sourceName": "BILD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdzFQd0tGR0c0ZFRnMGpDd2tTc2VwTFU5UlRzUEN0MzRCZ1J3RzFmM3BBaHBMbnlBQnFNVEs0Zk11UzFMSWFxMVZkVXBQWFNqaXJxdWFIaG1majJoQzQ4eHJ3bl9laE9haTlYdlI1a28zWm9fbnpFM01BdDA3eURYN1oxX2JqUFNmbldsaHZhRUk2UThWVV9NbW5HakhBeVJJb1JBbHhjTThXbEJaakRvZUtlSV9LQmY5bFRjaHR1VE02NGhUSHlIOWI0bzZBUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-0b569b31cfcc1e44bc1d",
+      "title": "„GTA 6“ auf PC: Aus diesem Grund könnte es früher erscheinen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T14:22:00+00:00",
+      "sourceName": "futurezone.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0hjV2RTbEdQb1Bra1Nuc3RhdWU1NXBuRHgySU5uZ3ZNamdSSmxWb1RkVGRWRUF6aTVsaFlBQnhBSjkzTHhLTFV6d1dkRzJYYjdwcGJNSWktdmhoRGZwTGpVUjlfamFfRFc3dVM2U3NYanRPVEJEMV85WV82NDNCZUdXMGJYSkFvaGEzWnZVU0FtRFVpME1kTS1CeVJsMWhURnpscEF4Q2lKc3hIZl9BYV93WV9yZEpucWJyWmR2SWhZdw?oc=5",
       "category": "feed"
     },
     {
@@ -407,6 +497,16 @@
       "publishedAt": "2026-11-10T12:24:00+00:00",
       "sourceName": "CHIP",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUdCZGs4cGE2WnVyVlM4MlN0bWJaUzFpa3ptSHNnYnpGblpyd0NybjJYa1dhWHlDWFhLaG9tU2NrZ1U2RHp0V3hCb1UyeXR5X21ZSE1lYWVCbjN0SFBsT0JtRE93YTlMZmtoSENReTI4MnRrcjUzbDJqZ3RoWFdlSm5UUDdKOU52VDNOQnBpd2VRNURoZjUzcGJlWkJyQkVxNnBITy1fcGdDTTBZYkhjVmF2LTNaVTVkLWdUMTRiUzVCVnNjSU9lNw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-fe2ade5e0910e3a98f5c",
+      "title": "GTA 6 mit mehr als 30 fps: Geheimer Eintrag liefert Hinweis auf PS5 Pro-Sensation",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T12:08:55+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FTE5TYzhFUk0xQ0Q1NE9TWTl3a1BTd0tIdXViQ1FZdHpTN0tOSVpEVUwwRWJPUUJzc2F1d2YxV2I2emxtcFUzelhlbnIxczY5QnR0cS1mVGJtQXJrRXlnVmFpVWxUMkI4RF9xUFNxTlh0a2lIMFFsLQ?oc=5",
       "category": "feed"
     },
     {
@@ -567,6 +667,16 @@
       "publishedAt": "2026-11-10T08:02:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOREZnbUZwbjdqV0phZmxUNVVwdFZUODZQeVliZkdYTzBuVEpvLXh5dTBvQ1lTQ3RCQktRZ1dBb04wc0hGdlVDX0FsQm5CN3FwRjd2Q0RWemRMYjJ4NlpGRXo0ZTBBdzBKQWZ5Y2xZTkh6RmhmelBvM21lbTR6NmlWQTVFQXh6Vkk2a0lDdXFNNUI4UmhYMHE3d3I4cGdXQm5uTGNWUVU4cDdIMmt4NFl0QzhiMHhyb2VxT3FjTFl3bHVpUQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-f953142450850f551d61",
+      "title": "Kein Platz für GTA 6: Diese PS5-Besitzer brauchen jetzt eine SSD",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-10T07:48:32+00:00",
+      "sourceName": "Giga",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEJxUFFBVV9Oa2NYUTZDZ3g3MTdmNDVCSmh2WGVqTTd4dzJBZGNJNVFEMEtoaFVjWGM5SmU5c0xhdU9tYmY1MWNEdEdrM1VQT1lUYWt6ajhaVC1jeG1NWXJQWVN3dERKSlRzLWw3ZGtKRlhpVlMxWks5OG1nMU9sLWJsampWclpWSUdyZ2otaC1hNTh1aFRsQUI0YjROUy1XVkMtSUhWbUpremt0RVN2cVQ0cXozNjZDNEE?oc=5",
       "category": "feed"
     },
     {
@@ -1270,6 +1380,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-0b63bb9bc4e254a2970d",
+      "title": "GTA 6 für PC: Release, Systemanforderungen und der aktuelle Stand",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-09T05:11:56+00:00",
+      "sourceName": "4P.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNm5DNmE4N1YzUTRkVmpkdkhBOElmRXl4RGt6OVhFWHIyNE4zbHdWUlBuLVNmb2RFOVVVNUw2b0FMVUc1ZFl2LUxLQVl0M1ZfMTNzemZyZjFjNDhBem1sUzI2Wmh5eFk4clNzRUY0WVlRUm1ydDVxOGFBYjNmTTNNdWo1NVdXRjJibFA3QkZn?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-da5b2ac94f94577fe6ab",
       "title": "GTA 6 Preload-Start heute Nacht: Wie ihr den Download startet, Größe und was ihr vorab wissen müsst im Liveticker",
       "summary": "",
@@ -1427,126 +1547,6 @@
       "publishedAt": "2026-11-08T06:55:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemdUUXQxb2tMWlQtb1JMdUMzNWg5LVU3LU02RFg3YlR1SVRFaUR2X3JGaGtpNXU4Y2pDVktOWXA2blhvamVMWm82ZUd5dTFmVjd0dmpJTURHYzFfOE5UbWpzTXdCVUpMQk5pVkFKSnZCUlVhRWFkMWJYcWhKUkRZRQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-bd17319d818637fe5d4f",
-      "title": "GTA 6: Offiziellen Soundtrack bei Amazon jetzt besonders günstig vorbestellen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-08T06:51:41+00:00",
-      "sourceName": "Netzwelt",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTc5b01WYXFlMGpwTjJuNGV1akRYcVRKWEViMmV0TlJhNkJvaVFjeFE1MmxtdGE1bFlKOF8wS1pYQTgzb2NYeS1kWWJxYTdmSHlHQ2M1Rk9SQmFfMi1wVGhpUVFzZl9pX0t4LUxHRkYtckRoRXdWUV9jdjVFMU5LTk1fN0tQOXBFR3lHRDZhbTdpbHRjcnVoY3lQZnR2WGloUHNVWXdwMkdaMU9GcXZZWXhGWE1YRjg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-69193af6cae8f650cf5b",
-      "title": "Was die GTA 6-Packung in Deutschland verrät: Schon 7,7 Millionen Vorbestellungen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T19:49:13+00:00",
-      "sourceName": "BILD",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhkeTAyemlfU0NMeGRYLXVrc18xNk5BYVBKOU1CZm5lNTVDMUpSX1luRDV3Wk1wNmVaektvaDlJc1I5WExsMWI1Uzl6MzQ1LU9tWkk1emFZOE1uX3lEQkl1c1U2WG9xd1B4VUx5WDI3UWVrZ2twVXIycGN6MTJsUDVQVnFhS3ptYjh0TTM4NGczTy01b1Z5RzhHUDdITzlHRHJFdVl3TWpCWDM0RTVFQmdYcThhdmppOG50amZ0MU9EN2dTWkhjckd1UVowU1ExVzBv?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-0b9e5c7da961000c6bb0",
-      "title": "Launch von GTA VI: Sex, Folter, Rassismus-Vorwürfe: Das waren die größten Kontroversen der GTA-Reihe",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T17:00:00+00:00",
-      "sourceName": "swp.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGUzNzhYbGpObW9KbkhrSHd0WGQ5eXJlc2pjNGpwcFB0Sy1TSEs3MzNGRXpYcmJvWGZXZGV0TWhsNUMxU1VzbW5vRG15MVBRNXVuT3g1amRfZW9wU185b2wzYUFiTFNJR1NKUHdROE1zd21NdTF0bi1Zbk9rZkNUeFFzenhyWjlGSXhpc1JZRHlwbTZSdm1FZE4xUG03NjRvejZhS1VUaldqVll5UTQ4RlUtZVdaNXV4SklSbFRwSFQyVmJpR01wby1qbzduUGs5S2VHeW5GNC1mcXNuRmc?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-3e2a617513016113c9a7",
-      "title": "WTF: Pilot zeichnet Artwork im Stil von GTA 6 mit Flightradar",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T16:49:00+00:00",
-      "sourceName": "heise online",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVhXTUtDcHVZZ0p4WjdWSURCR2ljRG1vTENaMnlyMkN4UURXNzJabzNPSWZqN0RoalF4c3U3cmRSWVA2dHEtVjB6M2dMNGhPRS13NDFPUGRVOW1YNWc5LU1tWWFkV00zZnphVFFkV1hTaUFHTWxITEMtSVNEQ1Y5OVV2VkRvTW52ZkRVODZTanpXWjlZeTBWN1c1Z0M4UklsSFE?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-e1fd16e3d8cf634362f6",
-      "title": "GTA VI: Warum das neue Rockstar-Spiel die ganze Welt verrückt macht",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T16:33:51+00:00",
-      "sourceName": "FAZ",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTklHaTJKakhnalQ0VjFRWnFuQU45WnlqTzRhdkctY3M5NlNMenpkZE55SjByakZORWhKTDRKSG1BbXpTeC15Z2FxNHdvS2pvdDVSSGE2RWd3UlNhaHhhcWY5eC1SMll2dElhazEyaUZidGwzNUlIVkRrWGpBRjlJbjNtaWhxSzNNbG13cUVEQWNNUE5ITkxVdC1ReTVWWFd2YUV5c2tpRHdTVUVSLWVUSTBnSGhjcjNZdkpsTzVjQldYcnV4RnFhQ1hwekxQRklmZmFrQW0tVFpIZw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-4b026f45a536ff43a55e",
-      "title": "GTA 6: Erste Bilder zur physischen Version und möglichem Poster-Bonus aufgetaucht -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T14:40:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmpOZTRfQnRTWjlVbm8yOFFGclZ6Q3VQVWx5eUN2QjM0TjVLb0RQUHJfdnRHcG9ISEFqaWZRMUZnaE0zdks0MGtuVmxEeEpjdVJCZXo5TjFhWThjbGs1VUswLXlvVEdnRGNMYjFjZmVjdERhdF94YnVfYmdjdlhfYWtzQkZDM3Z5enhvWURFcXhxakRDQ0t4dFczU2lIbGdUTkZLQXZ4ZDUyYUkwRHlvZmJtTUI?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-be025b918b97a15ccb9a",
-      "title": "GTA 6: Take-Two-Chef verteidigt die Verschiebung mit einem Seitenhieb",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T14:30:00+00:00",
-      "sourceName": "PC Games (DE)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1JzYmEwOExkelVYQ1p5UERkNlFEaktiS1pITWZNb1hRNlZlY3I1YmFsd1duMDA1STlRYkhWT2NuMFl1bnZPYi00ZUxiTk9Qa29Db3U0NjBUaUlTZHRZMmQ3elUyanpuN0ZaeTMyY3dLVklLZnZiQk1MOU9mVGNUdlpkeVppVWMxRjJyV3JmUVh0SzZwZGtzV1NmR3R2NDg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ce249e75898ea4525dd5",
-      "title": "Rechtzeitig zum GTA 6 Start: Hier ist die PS5 sofort lieferbar",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T12:37:00+00:00",
-      "sourceName": "SMARTWEB.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjllTlk2MFNFWmZleWhiZHAyTENsOGFiYW5vandJVmV5RlZoaXh5OWlXdmI1UFZjOTZnY3QzXzdhcFRuR3RoeU14UnM4QVdpWG9VRzc4eVBadmVRQXN1RlRjcW9pMW9sRkhkTnNvU04xcjZZNEloUm9neWpfUHgxcWtKTXZsSS14ejVlTkFlTjZuV1JIRHRiN1RRalg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-a928890408c585fe3b53",
-      "title": "GTA 6: Ex-Entwickler glaubt, KI-Kopien könnten Rockstar zu einem früheren PC-Release zwingen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T12:30:00+00:00",
-      "sourceName": "PCGH",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclFid016bU4zVnpIeUpnSk1ZWmhlUndUbnJDaEgxWDA5MUc4UkN2MVI1Ymx6YTJHckFObjhKM0VIS2xYcnVTamVQVUZKbjdwR2tGaGhpU05XaW5WZ3psY1NoVEVBX3B3YVVfV09zcW1qNjhnYU5xM3B3RTU2TllNOTJEY1dRTThqX0xjZG1LWmxxT3E4OTJNc3VuNXlIYzZhYkJ5S19KVklidw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-7b76c655c99feefe9cf7",
-      "title": "Strauss Zelnick spricht gelassen über Raubkopien bei GTA 6",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T12:00:00+00:00",
-      "sourceName": "PCGH",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0VKVERDZjFaRHZVUTNGYy14cWt1eDE0cEJ4VjlXamE0d1FINndILWQtbmM2M01GdFoxNGVMUW9YQkRYVkhJRmZsajA5THlxU0dBSlRURmVXZUFGbGdyNUE3NG4zUkJ6d25fSWpIMU5pcENZWmFwNFdTSDZJZzE2Z2lpQy1RMHBNLTc1eHRaQndZRGxDZ1lLbXdSOEU0ZVd2dlVpYUtWRnVaRm51aEY5R19Md1Z3TWJrdkFSeXloNA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-3e38579a0b21174ce084",
-      "title": "GTA 6 gratis dazu: MediaMarkt legt dem 75-Zoll-Samsung-TV das Spiel des Jahres bei",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T11:55:29+00:00",
-      "sourceName": "Netzwelt",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXlINmF0UzBNSVFtcGY0a0Z4dnNtOGQwRFRYdGxvNEVuNG1SZUJ2eGJWOWRZcUZuTGRESWI2ZnF1MGxzTWRqUFIybExKWGFoUEZ4a3pDREtOMEotSWVwNEVudXNaam9XZVpWMnNIazlGUF83SnhpWThkUEQ1T003ZDYxb1hwc0k3eTRoX2pTTTJLbWhEXzNNUkthcjl5Ti1XQWtvTnZDaU93OWhKWTlJOU1QX2Q?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ebb5eaca68e2a9c01db3",
-      "title": "PS5 Pro überall ausverkauft: GTA VI-Preload startet nächste Woche",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-07T11:31:59+00:00",
-      "sourceName": "Yahoo Finanzen Deutschland",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9pcTF0bElXRFhPZnlMNXZrbmh6NFAtQW5vS2VoRWRfVTgzcmcwRlZ4VVhiVzMwYjFacHVtV1Q2NHFNenowel81aGc5ZXQyUkdZcnRlc2s5NlQ5Yk50V1ZuMEtPdEI1bHFtbkp5MFViNDNnaWZBS3NwbXM5YjBQODRtV2xRa1psUnBKN2hncUFpOXZ6WnFJ?oc=5",
       "category": "feed"
     }
   ]

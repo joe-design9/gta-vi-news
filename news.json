@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T01:58:42.584370+00:00",
+  "checkedAt": "2026-11-13T09:45:40.383482+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -50,6 +50,66 @@
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
     },
     {
+      "id": "rss-a050fbcb058843861738",
+      "title": "GTA 6 vor dem Start: Vorbestellungen erreichen Milliardenhöhe, YouTube plant 24-Stunden-Stream",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T09:19:36+00:00",
+      "sourceName": "Hardwareluxx",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd3Y5X002UE1zYy03MFhYMTVTU3ptOEZGeGVQblNtMV8yWkhPamk1SmdNTGV0Yk4yMVUxX2c1U2E0MEVZT0c1TnJfLVNMOFlza1pUNmtaelVBa3ZpeDJwaEhWQ0hmWXAwUkFueXZSSnFyY1ZQTjEySTJaOGQtNFJZUFVZNWVoT011M1pBd2JxMUN4OGRKQjZveDZfVHRwTl9tcHA1SWU3d2lXNVNBY01wVnNFS1hxdE4zX3VHNUk4QlB0SnVGc0lBd2IzLXBZQnZLenVmQnV3SnJSUVJXQTM3ZkNjdVpmUXptRVdQMnVkVG00T2ZkWnc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-3d5117d01ac5e8781430",
+      "title": "GTA 6 für Kinder verbieten? Was ein Medienexperte Eltern empfiehlt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T09:02:00+00:00",
+      "sourceName": "CHIP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeEY4NnN3cDI3R0E3Vm94a0lDNDdvZW9uR2J3SVlCaXVzQkx4ZHdTZ2Jab1EweDhwZFdudkliaUNiNm1QOWhYRXN5eXJ2aDIzSmVJUFlBVzQxSEhybUgyS2tfY2RQYUxKdFFweXNFbjlDc0Vqam1yWm4zM1M0Zm5KSHA0OW0tSVctOUJwbmxhQkU1RUdyRjB2QlBIQldxSF81SlRTZG16SmIzY21jTzRKRU9xdldaVHVtaDYtUjlQYkJreTBhZW1uZkJLbzRIZ0hUXzBrZUhSaFVMZw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-47e3bcef2162163e4107",
+      "title": "GTA 6: Hier kann man schon 12 Stunden früher zocken",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T08:36:13+00:00",
+      "sourceName": "Stuttgarter Nachrichten",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NOdkRSWHFFQnBqa2RDMGMyUWlYUzlQLXA0aGZUU1p3bU5TaEdmUTRxcHhXSy1PM0dIVWYyd2VpUEpBXzZOUmkwYzVkYWFIcS1UNjR3NTFTWFlQcDY2Y2ZQWkJqM0dLMHFUaGM0NTI0WVBMaldycHp5RWphbEF3NmprQm44UmtEeVJDTllIZFktWTJueHpzek1ySGhQM1FJeEVIdWVVR0dVbDJmOXFfRGNsSQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-cef129655b71c7323254",
+      "title": "Wie man GTA 6 vielleicht schon früher zocken kann",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T08:22:20+00:00",
+      "sourceName": "swp.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOEtraXZnazBTaGx4TFJVNG05bUVhb0xsV1pZbkMtQ245a0EtUGpzZVVBb3BDckRJMHVxdDZSTjZKdlBGdXV4OGMzckszU2dodDlVZG5mcVJXSFBVUWJGRmxCd2hKMHAwTUFMaEhFSi14NW01MkY5Z0EtazdiS3M1ZlNKUjlYNHJySkh2YU5nNVJnQUhEUTREV0tyVjhmc1k0S0N4amVxQi0yVjlTdzNmSW43TGY3Vk5UQ2hBbmdfdXJ0a2RWRWJ0QzNxRQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-3ce1e26e73330e2ac501",
+      "title": "Mehr Urlaubsanträge zum Start von GTA 6",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T07:28:00+00:00",
+      "sourceName": "tagesschau.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZGp5cU16NmxvSi1ZR3pUR08ybWhteDJDZ0ZyY3ZRRnAxOTM3VWJGQ0FyQkFJRXV0WmF0c01MbVFYbktIaFhzYm5vbHhLMmZ1VlJlWGlNeHRzT0Q1blRDMzhfa0RkcHNzNjYzUTV3?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-234a4d03f25dd55b5958",
+      "title": "Schon vor dem Release: GTA 6 knackt Rekorde im internationalen Datenverkehr",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-13T06:11:32+00:00",
+      "sourceName": "FAZ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0sxSTUxM0VPSXdIMzFDNG1nSjNGbjc5emJmbnJXWEw0N2YxZFNEdlF4ZnE2T2t2RXBPWEx3RXJaXy10Y1R6bEFad2ptam9TYWVRWmt2aktzUjY5VUZ5bDh0MEx4OHJzVld4ZlFQd0U5bGlLNlA1VTZsaG1NQjh1ek1BTzdFa1FDWWJnbmNwVWRiX0taek5YMUJIYW1ncm13Mzh5VURvenVPNi1XV0p5S0RKVExsZ1VBYW53QzhvZmNYaVp0N2Y3TzlaUHZvR1lROGo2MjJOX0tIOFhj?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-a9f7c5102534c36adb13",
       "title": "Ein Vergleich der Küstengebiete in GTA V und GTA VI zeigt dreizehn Jahre grafischen Fortschritts.",
       "summary": "",
@@ -67,6 +127,16 @@
       "publishedAt": "2026-11-12T20:00:02+00:00",
       "sourceName": "hessenschau.de",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWEtYUVISXQtLTVkSDFfRExUa2pDREx0X3o0d0g2MHMxVzJ0aDlZaEFiNTA5cHBoRndKcDZfRHlQRklLNXVHbU5WUlRON3d0em41emlaY3djS0FOMGVWeDRxZ1kyNTUyTnJOa0paUUV2WkhKdlB5WWtSYVVmUVg1cDRXbkZBc3czLXctOFgyb2otbk96RU9ZbExUX0xtRzlobzVsbXFQbTR4ZG1lRmpDTWQzYlZfVUtRdi1jbmxzeHJkdFJiSGtLcFBvMDdSdU5u?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-e273e5554336cb18f481",
+      "title": "Wie der Release von GTA 6 den Internetverkehr antreibt – und wie Xbox-Spieler schon früher spielen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-12T20:00:02+00:00",
+      "sourceName": "hessenschau.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUS1JdUVKanBzUzdqb3NKcWZia2o3NHlHVW5aRU5aZnBVVUZkYVNrMjgxc2lEQkg3T3FUSjVGc2VIV1hWSmxEMGZhOXBQTWVvRzZxZG81YnpvdmUzd1FkMGs0Zm12blNlcV8ybkkza0F6OFpaV2xQYzFEQTA4NGFGaVdXR1AySkF0THVESG1XZ2Qyd2ViemdnLXdYcDdzRHBOMUJIRG9YZ3ZyUnNKYmZYRHBoZFZRdjY0S1EzREFzSV9IN0QwVkRiZ09wODk0NHhBNUdzUg?oc=5",
       "category": "feed"
     },
     {
@@ -120,6 +190,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-67969a0d5019a40ddea8",
+      "title": "Wesentlich mehr Urlaubsanträge rund um Startdatum von Videospiel GTA VI",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-12T17:50:00+00:00",
+      "sourceName": "derStandard.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0xXOUNEbDRfdHlwQmhaV0tJS2JiXzMyQ1JpaW9mazJKbTRmVVlKZ2FwM3pkNGJTc3ByS1JVcjRTTXNBMldhZVpLUHN4RjRWQ3R4SXAyV2JldFZNNXlCRWFrNjlHWk1SY3dITk83UndiRGtlazJGTzNBaGFYRTVmVFVUSkNQVlNwZDZhNjJvcFlFNTI4VlY0M2t0eDRFZGh0UFJHaXVJbXlnMVdoUjhyeVoySXJZQQ?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-5996ad0cf86b02f2ec36",
       "title": "GTA 6: Rockstar hält ein GTA außerhalb der USA für möglich",
       "summary": "",
@@ -137,6 +217,16 @@
       "publishedAt": "2026-11-12T16:19:53+00:00",
       "sourceName": "Business Insider Deutschland",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORklqMVJDZmNDTnJBMDViTzdSd2RvQmtDNGl1eExSU2VYeThiNkRCVEkycFdjVS1Cd1o4YklBMTFqTkp6b0tObTc5WUYwZkdNMnhPQmRqdWg3VUxDVVdrMTBqQ2lZOHpzVzBBdlpXZklRdXhmV05wSjBGOV9PZnJVcFc1b1dScGhpTGE1ZjYxVmxaS0FwVk41WWVUMW9GRjUtWVRnUUt2bmgxbERmWlZrWU5nVkhXZw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-67f3b592b68dde6199c0",
+      "title": "Pocketpair, der Entwickler von Palworld, gibt seinen Mitarbeitenden 5 Tage frei, um GTA 6 zu spielen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-12T16:14:00+00:00",
+      "sourceName": "IGN Deutschland",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2gxd1A5eDBiaVJVYVROWk14ZlhFQTh0c1pGdkRYOVc5SU1ibE1vamEwYUhULTBvcVEtaDFaeS1NOHhHMGw1Z2JlSE1iZDQyX19nenRwNEpmckI2SzlCbDBNR21aZUd0NnRLV0hIWm1RUExMOERST3Z1aEphdm1QdXpDYmR6Z2ZydHA4VWd5SzVYa3FUd1BsSkpLWUp2eWVoU08zTFRCQWZ6R3RHNE8tLUcwT25QTnF5ZGZ0NTRhNDMySUNZQ2tLbkM4Yzh6UmhPN240UzhlcEtsQUE?oc=5",
       "category": "feed"
     },
     {
@@ -177,6 +267,16 @@
       "publishedAt": "2026-11-12T15:38:38+00:00",
       "sourceName": "heise online",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUMta1pDVkZKOXNDVHNIdUw5S0pZMG01aEZGVUlGUzUtQy1vaWgwMTFLTjdOVWJHWk15Ry1XNGw0Q2lsdlZXbmpqdVVZYm5BNXZiUE8tbFVGR09PNmIzWFZ3M0c2MGQ0ME9XcTltNHJJdWc3UjhWSlVQTTktVHlvU3VpVFhtLVBoOXY5bjFhQ1dFbE52cjhrRlJtdFBwaEhaZFhXNjdyNGVpZGdreTFpaGt6MmZLNG9xRU93?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-32eafb7f58681892fe13",
+      "title": "GTA 6 schon im Handel: Edeka und andere Händler starten den Verkauf vor dem Release",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-12T15:35:00+00:00",
+      "sourceName": "L’Express Franchise",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGNwS0p5SEpUcmhOZy1BLS11cDMzRW9TWGlkeWxHWnBhMTh1MEoyaXFObE5UU25iVzlZMkFteXcyTWFSQWx0Vll6RlNpQVM3bjh2RTM1Wl9jWjJjYV9qcUl3RThoSXI2WlhVc1pOcDdZNXc2THg2amliZHQxeEZKQk00Vkpaa2tTbmc?oc=5",
       "category": "feed"
     },
     {
@@ -297,6 +397,16 @@
       "publishedAt": "2026-11-12T13:29:00+00:00",
       "sourceName": "WirtschaftsWoche",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclVNZWpUMEdGUUQtUjVKR2tOMGdhYW5vUndMWHFqZ3JTMzNrcnIzRDJUaFVsb2dJTkREVkdleVgySnZNM2FHLWYydHdmREhIWW9nQzVfUUp3THRqb01iWlNXQW5hUWJKRFpoVGlHZEVsUkxRUHE3cTJEcFN1TURHSVVIdkU1WjVTcXRzSGFSakh4LXFXaTBZSVJ0Rjg5YWtzbl9aVWs5U0h5bnBJbXhxaGJn?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-41c3be65a4c24ddbf9a3",
+      "title": "GTA 6 ist da: Spiel lässt sich jetzt vorab herunterladen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-12T13:05:00+00:00",
+      "sourceName": "CHIP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODF1YklONDNSRUxzOTVIcnFYcktuVUxQS0Zkb0VUdGlaNHg0NXlkOEJQSGFpd1JmeUZhWTlob09HMFR5LWZWb3BOUWQwZ3FYM3lzejgtZkFLajFsNHllRnRiNlNtN2dHZnBEODJQTnc1VGp0b2FqMllNR09UWGJiRVQwaXRCdFpoV3Zyd1l6TTUyekhMZzZ0WjFfb0lSYWtpOE15ZnpqMEdZWm80ZjBjN0NNcHc5U3ZMLUZPQk9xY3E?oc=5",
       "category": "feed"
     },
     {
@@ -1437,116 +1547,6 @@
       "publishedAt": "2026-11-10T21:56:31+00:00",
       "sourceName": "tagesschau.de",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aM1h1YTFfRWh4NXljZXh1T0Ywbzg0YnpaQzhDSmZKcDB0Y1ZUUXo4bnVXVXhlMWpKQm8xSWt0a205dVBXbHR2VlFfWDhMaGFRZmdLQW5ZUGVtWmZaQ2ZJSzB1WVRLNm8?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-14aaea0575802335dbb4",
-      "title": "„GTA 6″: Take Two-Chef gibt interessante Hinweis vor Spiel-Veröffentlichung",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T20:42:00+00:00",
-      "sourceName": "futurezone.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEhMSEF5bXRfU2FWekRFdHRuY2lhQVVjWHdkcWhjc2pxU0QzM3l5M0NFNEN0RHgwNGt6cXQxZExTQ2xYN250d29UNFh2NzQzRXhsOUgxMzBmcmdnTURYV2poVTM4ejE1Q0NXbHRMdU9vQzNVaWppeHA0Nmg1RE9aUThpV3BiYm4tZGZqTEYtTTlOcy05OTk1bGRMdjhxTzhGeFgzeTQzdEVXRE5lWnVDS1JEY0U0V2Y1MVhSME9KVmNQOUQ0dmxLOVJBZWJnVEpNSm5SeA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-bc7e008d89283469b49c",
-      "title": "GTA 6 auf Xbox: Schärferes Bild dank FSR 4? Ein Haken bleibt",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T19:15:00+00:00",
-      "sourceName": "PCGH",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZEWUJWdUNlWEJZVkVBU3FpNDFXWmh3Y1plVjhzRHdKWFoxVGpPdVFWLUtmQmFJMFk1ZkV4cjBHbVZzelNMLWJfdjY0YXU0RWZUdWo3U094bXlNMXktc3g4RnMzODYzLTVXODZXZEtkODc1U3d2Wjg4UTI1b1FyZGVpanJ5dVJLRm9ZSHRrVkpyZE9nZ25mZENEaWdGTWItRTNSag?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-fade375e90350bb3c542",
-      "title": "GTA 6 immer mit 30 FPS: Rockstar nennt Details zu Framerate und mehr",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T18:58:00+00:00",
-      "sourceName": "WinFuture",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMm5aS2IzWUNjY0gwWkUxdWlteWhUMVkxTUxCOUQtOG52TjIzSVVqLWVRUV92UFRscUl4TEpLRjB5OWYySVluUm1BLWktUQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-15b42f1978544cfbdacb",
-      "title": "GTA 6 auf der Xbox One spielen: So bringt Xbox Cloud Gaming den Blockbuster auf die Last-Gen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T18:57:30+00:00",
-      "sourceName": "Eurogamer.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rUndtbS1kdjVQWjBYX08tbHQ2RTlpa3ZaOC0tX2U0ZERLNWE1aUs0WTEzcFhfVDA3c0R3d3REaDFQbGw5Z3lYNmg5cGtMcW1JMEppUVVpd2hrSERpMUVMTURnX1B1Zw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-9f32d835f166f486736b",
-      "title": "GTA 6 kaufen: Die günstigsten Angebote und alle Infos zum Verkaufsstart im Live-Ticker",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T18:41:00+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0g3bk4tNkFKMEJPWm50WFdnQjZjQnBkcld0cGJhUGQ1cFNPMlk3cjdPdm5rZmhBM2xNUVV5QWdiaHdfSXhDUzlyeHpfMktMeUxnOHBTQ3V3aHBOdUQ3QWlvUnRRQTBzWHMtQ0I5aDR6RjBrSVVUWVZ4dkFyMk9qZXFyY2JyQQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-9431ed9c41911e5e77a6",
-      "title": "GTA 6: Rockstar verwandelt Miami in Vice City – Marketing-Offensive der Superlative",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T18:18:59+00:00",
-      "sourceName": "RND.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVtelluSGZPajFTSm1wTGdPcVZKMWo4QjRBV3d0bWxQR0RPUjdvMU4xVDR6N1RDamxVUmVSTEVTakV2Q0pBUXZ6cXRhb3hoaElzc1dlYnFfZ2w4b2ZqUU9la1ByRkxsOHRYeXluUVBfd1VEaktZV1lTdGhyUktsRE03YmxLZDUyeXdXdk5COGx4NmUwRUwxRjdGWHBtNHYtWW90M2dsVjhRWThvUXRmZzBKQm0?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-83e6a145110345991fb2",
-      "title": "GTA 6: Rekord vor dem Launch - Bestmarken in den Stores von PlayStation und Xbox -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T17:53:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ3VZenJkZU1PMXM1Sm5mNTBMOHQ4MjdCLUlVTUpvenZIQUR3cDJfam1lNWFLOE9qQXRUM1B1VDZBSkhiOW8wVm5qTXhsWVRDWHBPSnJGTUJQZjVkZzJXalJQMk8xb3lwTF9MbklnZ3QwaEFxakF5YWY4ZkYyenFyUUxlNk1Jb1ZnT0pGb0VhcnZPQ083Z3IxWHBoQXhVVEgyR0t1Nml6cFQ3Yzk1cUNURWdWOVMzYmU1akVDNndJck1XLXJjMzM4b2ZOTmFaeEc2c3lJ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-2730b0c52d3374ff4cc7",
-      "title": "GTA 6: PS5-Features im neuen Trailer präsentiert - So intensiv nutzt Rockstar den DualSense",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T17:02:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbk02azRBdmxFajlxMi13c0ZoUlgyQ205Y1lxMy13dm9wV1hvRDRuZDlJM1R0MlFHbjd5YXhhX3VXcGtMOWhFWF9hZlEyMFNybklVQ0V2S1M4enRkRmVlczYyc2xEVnhYdDRjemhpcVhGa25qLUVpb3VjREpNWE5QQ1lWcFBBUTZzejZlU3Y4eE1HV1hqamU0VXZVSzdZVks5blpDNk1TOGo1Uk9HOEpEcndVUmFpSU90REhtbnhaaw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-4549a3e25d28c71e9fbb",
-      "title": "GTA 6 ist jetzt das am häufigsten vorbestellte Spiel in der Geschichte des PlayStation Store und des Microsoft Store – offizielle Warnung zum Preload veröffentlicht",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T16:51:00+00:00",
-      "sourceName": "IGN Deutschland",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3pHc2ZLcFlGVFN0YlQtMm4tNVJZaEVUd3hkUDZ3YWl3TkFXLUlJWGNlQUpReER1OXFHdHkwU0V5X19BMWVRaHhDU3FRa1Z1bDBSM1Q5Q25NbmFRSHlXRmZwbXRnemdjQmRZM1R0V0w4NGlWRVVJMWRQdENWdVZySmNTeS1mM0dsbzlhOUNEdktqQldNVmdEM2Q5Q2Mxd0hSTDFKZ3dDV19MQk9XWTZHUWVueGtOYVNRRTA5RlRxU0d1a3F4ZXF4R0xaMkMtUEhocTFfLVBCby14ZUE1cnVj?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-bb5b49cda0891a175e39",
-      "title": "«GTA 6» Pre-Load startet – mit dieser Performance auf Playstation und Xbox kannst du rechnen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T16:49:04+00:00",
-      "sourceName": "Digitec",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzZtWmM2UmNmY0lJajRwSzQwT1BkWG11dEM3VkdKcmVNcGNxSzhjQWk0QVRhRUJVckNUaFNLX3FvYnExR1V3cFpmdERiazlVME9WZjZGbFVXamQ3S20xb19UaHotVlRoZEowcnFJcTZOcUlEMGlmbi1WbVlLckttb3M5d0FQT2pSNFRzMWhlSndGM3ZDdzFnZlNfTW1rdHE1OEwzVXRNN2pqa2pnTWNneGFnWHhfUE9CQnBqcUxpMmp5TDA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-b635c60c6993a323bcfe",
-      "title": "GTA 6 : Take-Two-Chef sieht kaum Unterschiede zwischen PC und Konsolen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-10T16:45:00+00:00",
-      "sourceName": "PCGH",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGhCUnFBdnBwc0ltckFfRFlaR1JmWUVYMkswUTk5TWxrbVE3dXNhS0JBbkh6OVVtSlNkSVNHRldQNllDWHNWX1k2U1VMb0ZyZjE1R3FpTGJTMThrUzVaSU8zLW9ZTENkdEZaZ1dUcjY3ZU9tRWhxOFFuVlFaN1Ywc19sYzFNa0ZvcmpYNFkwRlBuM2VfWE9NXy1oQnZ5Z1BKUmUxXzZaYw?oc=5",
       "category": "feed"
     }
   ]

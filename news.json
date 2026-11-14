@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-14T19:20:54.084595+00:00",
+  "checkedAt": "2026-11-14T23:13:24.489050+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -50,6 +50,16 @@
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
     },
     {
+      "id": "rss-e350063ae05935aeaf10",
+      "title": "Hype um GTA 6",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-14T19:57:58+00:00",
+      "sourceName": "hessenschau.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2M3NTNxRm5ZbVNwbll0dVZMbTNLdXI0WGlXVDZpZWZOS1VFUDU3bkl5WEhzXy1KTlNNckxCZFZCbk5rWDRLby0zeWdCdm14b0s4b0lFakk1MUJCTXdHOVExbUJrWGFMd2lxVm1XOUhnaTdJU0tfeFBfVUhrTTVuWmpBeE5OSmM?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-19d53d342c4a591b6471",
       "title": "GTA 6 wird etwas tun, was die Reihe noch nie zuvor getan hat",
       "summary": "",
@@ -87,6 +97,16 @@
       "publishedAt": "2026-11-14T17:00:00+00:00",
       "sourceName": "Capital.de",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajBJazBRbUgxa0w0TUNJR3psUnVuWFBIWlFHUTVkS3F2ZHpIY2Z2QmZLNFVCQlFvaDRva2dvZjdQNG5QNUxqYVBaTFp4VVR1ekFPQ0NJUUxBY1NwZGF5QzhVZV9kci1QdDlHanJYb0h1dFlLRFpzWFZwdmZmLUc5dk5xdlpmMVN6YlY2U2tyYi1FU0g4cGdZS0ZNeTVZNlVYUjB6WmpDSQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-32241849b1fffbeeffda",
+      "title": "„Wie ein WM-Finale“: GTA VI sorgt schon vor der Veröffentlichung für Rekorde",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-14T14:50:00+00:00",
+      "sourceName": "Nordkurier",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWRoYVhmR2ROYUdCcVNLQ3pOeE5ud2F2eUV4c0NRdlhoSkl5OERnQnliZ2RrM282SGNMdnMwMnRWdEloZFhERGZXRjEtdGNBTmpFaWYyQmFwblVZSGZuVXFJTHphdFU4T0lKZGtnS1ZOaDFWSkpFaWw2Rm9oTVVhUVEyN3JaZDBGN1dPYmMzamhkdVFnYUJaOWJpWTFtc2NnZk9EYjJ5aElUT1VLNlowZkNzRU1XMWhUVkE?oc=5",
       "category": "feed"
     },
     {
@@ -187,6 +207,16 @@
       "publishedAt": "2026-11-14T08:01:00+00:00",
       "sourceName": "GamePro",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSE1tQ205VnVMeGV6M3ozekpIOVNEX3JTcG1ZcUpFamRRR0lncW9HM3pDMkV0NURScGt3QWdLb1NWNjdCQlJTc1VoZGx1SHhVaEQ5SmVkMXpMZ3BaRFJDS3Mwb1pWMFBpejcydFJ0UjNWWDVlNXpkMDFRTnVxSmNWVUNvSVM4dGsycmU1OUhCS2VRZG1kUV9TXzVB?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-9431ed9c41911e5e77a6",
+      "title": "GTA 6: Rockstar verwandelt Miami in Vice City – Marketing-Offensive der Superlative",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-14T07:07:49+00:00",
+      "sourceName": "RND.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVtelluSGZPajFTSm1wTGdPcVZKMWo4QjRBV3d0bWxQR0RPUjdvMU4xVDR6N1RDamxVUmVSTEVTakV2Q0pBUXZ6cXRhb3hoaElzc1dlYnFfZ2w4b2ZqUU9la1ByRkxsOHRYeXluUVBfd1VEaktZV1lTdGhyUktsRE03YmxLZDUyeXdXdk5COGx4NmUwRUwxRjdGWHBtNHYtWW90M2dsVjhRWThvUXRmZzBKQm0?oc=5",
       "category": "feed"
     },
     {
@@ -1517,36 +1547,6 @@
       "publishedAt": "2026-11-12T07:14:00+00:00",
       "sourceName": "Horizont.net",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEVBZktZMGNCRi1lZmFDTzdScVFvR1FHb1hOWk5LSk5HSXpvOFlXVGZmUFU1UF91VHExYUM2YlpoVkFFQ0pyYldrVGh0QW9DbTY5S1pGOURub1Yya2lzTEZvS3N0OVRrS3pidUhtR2xKWGFpSmV6V1RVUXQ2dHBhbGpDS1FWV3BmWUQwTTYzLW9oZ1ZqWmU2elJuUUZoM3RRMUU0REliajZxalRsMEoxTVNTb3NSQVRCOE5vSTN1M0RDYmRLNUNyYjIybw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-22a06e37fc096b3ac6d3",
-      "title": "Preload von GTA 6: Datenverkehr steigt teilweise um das Zehnfache an – was das für den Release bedeutet",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-12T07:00:00+00:00",
-      "sourceName": "t3n",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOHhjY3NpalEyZG1zV25DVzVJLW1rU3pqbjBoOHdSWlJwSThxQUtFcl84czlsYVZGR0VpUjBuVXowZUhvQzJfRE9NS1dPcHZETTB6MlRoVkMxQWdPeGY5WjVfWVdHTGgzLURhVk5ja0lJdFhYak56N1dSRGtOaGc?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-795a638a057821877de1",
-      "title": "Logi Game Day: Logitech gibt Belegschaft frei für GTA 6",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-12T06:43:01+00:00",
-      "sourceName": "Golem",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPelViT2wwcFAtNl9mMk9Gek1hcVFwcklvcmM3TjJLWW5KWUx5cDR0c3RoWHp5c3M5WXZJQ003UWloODhmN2ZsREdTcENPbGNlQm1BMmhmUWhzcF84b3kwN1R0M3RmVy1JdGNYZVlxWXY3alRGcmI5UTRrSVprYXoyX0NHc3U2ZFlQYUM5SDN6WGhRNWl2aHJTVzA0NWc5bnc?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-c0bcb77a5726368bb15a",
-      "title": "Grand Theft Auto VI : Logitech gibt 7.000 Mitarbeitern GTA-6-frei",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-12T06:30:00+00:00",
-      "sourceName": "XboxDynasty",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWh1UDlTbEtUb081bkU5STZiekY0dXdMWFdXMndId3doOWtUUUxfXzJISHhOeGVPeEtTaUFvdG9FelZRQWpwSEFJeXFvWWZidjN2cjN5S0pxdDd6cVpodWNublp4Q2taWEFTWkJ0Nm9PUWlOZWtITWVtZVJUd0U2YVNaajJWYXRBTzlPUWR5UFhzaFlhNjhRMG9qRHc?oc=5",
       "category": "feed"
     }
   ]

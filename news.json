@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-17T23:00:23.763622+00:00",
+  "checkedAt": "2026-11-18T04:35:35.372967+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,26 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-e209be76df30c6c9c568",
+      "title": "Sachsen: Warum in Mittweida viele Leute auf GTA 6 schauen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-18T03:03:00+00:00",
+      "sourceName": "n-tv.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZndmcWtVT1ZtdW1Ia2ZHM0p4ckswaXNMRElGVE50dW05NkdTeHp6TnlGY2dlN1FBNklLLVh1aDczMGVxYUJYbk13UmowczcwQm1yM1paUlM2MVVQYnBRTUVqbmg2MnRZVHNOVl9EaDZYLWVkZVZPemhXVlNJbWpqdThzTmpzYWdWTHVGYlFYZVdTYUVYY0dXMEpyLW1tcDlJUkNXY0NB?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-c82fe63f708b94791d60",
+      "title": "GTA 6 erscheint in 2 Tagen: Neue Infos zum Rockstar-Spiel und alles Wichtige im Live-Ticker",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-17T23:34:03+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvakdKelNtNktDXzljVzJFbGFQUE5LSURlelRiN2hQV1ZyX3gzRzFTZzN3V05hQ21xSHNBMWY3dURNV3dZRlNGOUcxb3lCSmxOT1pJUGVRX01BU3BzRXg5Z3NnVzlaOUFlaFBLTU82S3U1OTcwT29HZA?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-7426c45e3a4e06232456",
@@ -127,6 +147,16 @@
       "publishedAt": "2026-11-17T18:46:42+00:00",
       "sourceName": "GamesWirtschaft.de",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzBQbGRaSk83c0pMeE5mUUlUVnRYNkw1MjR3ODY1U0x4TWR4NHRMNzZISzVZakZmR2FpdUdyLUpQbVJLNFpxRWNhaXVjLTdrRTZhTnVSZk91THpIc3JlckU5V0xNbFBxc0RRNl94YXg0Mkx1M3JsX2pvcDVsZ0FldmV3SHRGYXc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-52d2785f56ad10bc0b94",
+      "title": "Kurz vor GTA 6-Start: Hacker hinter großem Leak bekennt sich schuldig",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-17T18:34:00+00:00",
+      "sourceName": "WinFuture",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVeldLTnFBZXNQX3FNUW9EY05LRU1GRVR3NGVRZE9oQ1gwMFhRbHhpRjViSDdWc2NJZGNlZnpjbmc1RjZwTnFLV1hVQW5SQQ?oc=5",
       "category": "feed"
     },
     {
@@ -477,6 +507,16 @@
       "publishedAt": "2026-11-17T13:02:00+00:00",
       "sourceName": "Vodafone live",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNThkR01ZTDE0VnVpWGs1S1NtZGlFQXVDdmRCME80eWctZXczc0RaWUkwR2JlQmlwRVRGWUlDNy16ellIa2xzM3o5bjdZSThDQUg3aVFlckk2NEZEc1p1MVJNZE5Cdkc2VG1BWFozNmJKVTBQbHhKRlEtUHFsSjFmcjlxVHpuM3BfaW9DaFpSX091Z2x5ZzJwU1FWeXl5eURGTnVVTXVkT2ZGV2xCcHVn?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ae060d60a32ae288b004",
+      "title": "„GTA 6“-Hype: Spielen während der Arbeit kann den Job kosten",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-17T13:00:35+00:00",
+      "sourceName": "WirtschaftsWoche",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZW9Da0ZaRjFTSllWNHVpTW5yeldsU1dUdDRLR2ZGTXU4VlJ5eUZhMldTVEh5bU1qOUF4NW5aaGtJcHNkb05GcVZFR2JZM1F1V2Z4bWRlX0Y2aEh6dUFuLV9KT2dMVlNvY1pKOC1WV2VnT2huaUFCMHNUeTAwV3R4RnMteUh2VWN4QlVUdW4wcGRacWo4OERfWVBYdVdUdjRIeDNQQ3E1LTl3R2J6MlJORWRSdGxjVnByZmN3WE1yMkVDOVpjQXc?oc=5",
       "category": "feed"
     },
     {
@@ -877,6 +917,16 @@
       "publishedAt": "2026-11-17T05:26:00+00:00",
       "sourceName": "T-Online",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckNCdHNHZ1p3Y0xkSDJ0RFhUc3NqV3Vqc3RxZGtRVUEtY1F3cGdVNDROUm5hQmsyR2dnbERodzEzODl6Sjl5NHAwU2ZDQnRiT1kwbVhhQTFkbkhBRTladEZ1SjVSLTN3MWw4S1QwdVFwUzRGZTRTb194TURyNWZRa2lyU0NNNGM0ZjN2MkZzQVdPTVdmNXhFVGpobGJWMm1RZWN6cE9QeXN4NTBDa1FWdnpwRXNJcUF2X0E?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-fe7c1794ad6a19630742",
+      "title": "«Grand Theft Auto VI»: Wie ein Medienökonom die Aufregung um GTA 6 erklärt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-17T05:00:11+00:00",
+      "sourceName": "DIE ZEIT",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEtzRHhjVXJlTkJ6dHpnaTdtRmdSaTgyTGh4MHU1SFJwU2JOcWQ3RHI4eWJZYWI3M0NqZ1dfbGQzODdLcDBYMFBHS0U1RWVUTU1qMVFLWk05Ykt6RFdRSTBrMlRDcnJsRjdINHRteGFua2E4bEVUaHBpZHZhTWhUZFdqTGJDVVgzUzdxeE1ZMjl3Ukk?oc=5",
       "category": "feed"
     },
     {
@@ -1497,56 +1547,6 @@
       "publishedAt": "2026-11-16T08:55:00+00:00",
       "sourceName": "CHIP",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUHhtbmFuZFBmdTMzMWZvSzc0ZnlnbkNxWEU5Q1dfZW5xY3FDXzRwTzB4WURVeG5raUJqVHFNMGJ0dW1RSmNBN2plUlRNQVlPZWVLUjJnSGVrQTBBVWM2ZG9iNDM5SS1aSF9mNF9DR3c0U1Uta1ZGdVBvT0hYSWt1akppTjJ3V3d0QktqOC1BeWxKNGt1RnVxZEd4NDBlaFdZdDlON0E3MVBlbWtxWmsyOGtrejRZWHdfeHhNSGRiTWpoRXlaZHd6dUxKRzk2cE5FcDN0YUE0d3lGdWx0MlEzTldyX1VHdmJsYWx3aEhCV0pPT1NU?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-7267425b8314b65334af",
-      "title": "GTA 6 – Das Spiel, dem Millionen Fans seit Jahren entgegenfiebern",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-16T08:49:45+00:00",
-      "sourceName": "Nau",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNG9YaHRFb1pjaWFqOUFPb3RLcW5PUHA2anJOZWE5OGc2aFFBQTdQYWt4V2lqVUJHVVZMV3p2ZG40Vms2dnVQZy1iN0dPbFBiM2dfQVp5OWZ4eWRtcElXRW1nV2FDSVJ2dmwyNzJXd1JxU1lpVHhGY3N3b3JMbHNrTWVVbzhJRjdOUUZYam1PV0NGR3dqdGt1TnZZZnhEdG5yeUZN?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ef16ec6792661ea19fc6",
-      "title": "GTA 6: Warum andere Länder schon spielen dürfen, während Deutschland noch wartet",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-16T08:33:00+00:00",
-      "sourceName": "CHIP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RhUW8xNlJNUzB1eC1MSmpEYXBmWEFYZVVYdFhhUVlPU3VCWWF0akx0dXhhMUVrQVFGdjNPRWVQSm1NQzU3Tl9lNk1LYmI4QzZkeGg3ME9kZVZHS3ljbXZKUW5ZS2IxWEhYNVl5OWdybmhfZmxIdG5wTkM0MnhmSUs2RzVKSWF2V2NEUkVQZnJGelo4TlJkN2xFeDhYUHBnMnJubkQtX3lhbnhMMmI5Z1N5RktSOTJ3YXkzTVJmUVlSa2hfSHo0VDdLQzBEM182NXc5Z0ptSlBOZkdES1NQcXBfU29VdWh6RUkwZnNR?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-4dcfc662968fa409213f",
-      "title": "Kaufland verkauft heute GTA 6 für die PS5: So könnt ihr 10 Euro sparen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-16T08:10:04+00:00",
-      "sourceName": "Giga",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGxOemxKQlRhYjB5VXgxeVdwN2pXTllsbFJWeUF4Rk1HOHVROGZ6NkFXSjljYUxSSG9kS0J0R0hCUHl4ODNSbTJmQzF6ckQ4QThuUG5hMDRoNzNpT3J3enRZNU1VSU5OVXZWazdUYzFhSEp2UmxKSGlBcmJmVFlkMG1Sei0xTEpjdnN0M3hRTjlWZUdRUFR0NHBoMmZzNXhIZlB3V045U1lwWW85djZkYjZZeldiQ2NjZVVEZUppXzhSTmM?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-bf2c13b8e137e97dc161",
-      "title": "Zocker aufgepasst!: Lidl haut GTA 6 jetzt zehn Euro billiger raus",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-16T07:25:15+00:00",
-      "sourceName": "Express",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFF0RUJ3NWo3c1Y5bnlyX0hJVEhFS3JLbGdlaGVqZzVaRHpHMnlhTzAwMTdKMkE2SzdhaWc0Slg4eF9pbE11U21vR2NtRTRyZzZkNElIeFNjdjNSdElLX0lLc3hCMGwzZllTYmd5bGZ2QWJiSWFLN2pXWnBzdzM0TS12d1p2UlZTbkIwYTNXSjJESUZXLTRuSzl5MWdZMXhaazFkOGg1UQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ea7f3623b1b4d300c8d3",
-      "title": "5 Dinge, die du diese Woche wissen musst: Das Warten auf GTA 6 ist alternativlos – oder?",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-16T07:00:29+00:00",
-      "sourceName": "t3n",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWVzN05oMmZrR1FTM19Ba2NiM1gwR0dUQUhhSXVJMlRYTVpLS25DanpacDVFdG5Nem1yaVE5N2plQ3VzLWI4ek8tdmFpZ19hZGNIVmNHMUliVDNuOEt6X0lpT2VEOU5vUkxUcjRZeE1Zd0wzNnhHV1gwT0pTb21JRmYyQ0I5bDh6TFBwVy16MUlpVzBiWGQ3UTY4ZTk2ZGJsaURyUjRtb21xWWxJOWUwaFF3?oc=5",
       "category": "feed"
     }
   ]

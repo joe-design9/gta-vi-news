@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-22T08:14:46.851122+00:00",
+  "checkedAt": "2026-11-22T16:28:08.123044+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,36 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-846a0a2e342f802fcdb1",
+      "title": "Was das Videospiel GTA 6 über unsere Gegenwart erzählt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T11:02:00+00:00",
+      "sourceName": "heise online",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmhMcGVOQlNRUXNnNVFFcDNrM1R4cW9NbG5kU2Q4bU42ODBDQlN4Q2Q1U3JZdTd3X1Y0TEFkek5KMk1YUmNjM19VYjJhNGJ1V0JyZHVYSG1UUWdZZFhzY2xtcVFXcDdhZ0QzeWJCWEkzdzRZUDctT1pOOERwVTB1QlljbnNEZ19SdzBxaGZUZUkwMFpQcXRqMU1VdDY?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-d9236f3de9120fd953cb",
+      "title": "GTA 6: Auf diese 4 Dinge solltet ihr beim ersten Spielen achten",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T09:15:00+00:00",
+      "sourceName": "t3n",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3NWF6ZEk1YWY5OTBEZ2R4b2R1cGkxV0xabXhhUHJaejFCOFUxbE5wWkVGQkVaNmJtVFVkalBtRzFVV3FmZ3Fod3hEUS1LR1hmOEF5SHVoOHllbzQxd3c?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-0a583d6bbb79c6b98e71",
+      "title": "Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T08:34:24+00:00",
+      "sourceName": "Deutschlandfunk Kultur",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-f92f084c278baa5f5b30",
@@ -1517,36 +1547,6 @@
       "publishedAt": "2026-11-20T10:26:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVF1YlU0dDJOZUdVRzM1bWdROVZCRFV4dTBheDdsbk80LUpTd1F0dGgzTnYzQ2J6T0NCZ3dQb2l4NXpzbVNjc3NtMTAyUjlrWktObkN5RFk3dmNtUUNVeVUzLXBtTUJYT1UzeExsb0Z1OHpjN1NDRnF5VGUwSUhuN1dQeS0?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-03a7b209687d84285163",
-      "title": "GTA 6 am PC: Modder erzeugt 60 FPS aus PS5-Stream, Hacker veröffentlicht Xbox-Entwicklerversion",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T10:06:07+00:00",
-      "sourceName": "Hardwareluxx",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX1hQMEFMeHVHQWJuclQ2bEVBankzYUYyYktEeDJ2b1ZMU1ZOaEx3VmFuTVdVTUVVWjJIRUh4LVd5TmNrX0t5SUFnSjBIbzB6UGl2djZHZjU5QS1RYzFPY3d6QnVkM2RDUER4VEg5R1RPbzVDWmNoWVpZQ0RXY0xSV3o1SUpQdmdPYlpfVjl0N190YzhUY09ETG1FaXFtakdDdGV6MVh2Y0hEUUwxSUxCenVtbW5qaUtCX3F6UFZFWEdaNFhFU0hLVHluQkJLSVZzZVRPd0tMZ2FxQklmVmxtRWJGQ0dLMmM0R252bUY3bFZWbjRkR0VF?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ebfc4fcf02c9a0cdf134",
-      "title": "GTA 6: Speicher-Falle in Story-Missionen sorgt für Ärger",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T10:02:27+00:00",
-      "sourceName": "CHIP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeDNtOF9UN2EtV2VCb3VseE1RN1FSSWJwcnBLdHJ6THZmNTlsdTg3TlRacVZQZWxXSGtfME9WTHdLRDBaaWJzR3FkZVRQRXdmU3RtR3BCdTgxMmZabllQaUMwbE9VUDNJQ3RydjZlUVVxNVlTa1VRR1dYSnJwbDhHMlFpVVBwMW1peThpM1Z4YWEyQTRPRnljWFl2ZHhPSDJVeVZja3pBYktGOXM3QVBPQXdGaGYwanFmMXp3Q0Z4SlJxNF9xRWtsXzZueUlKQ1FERXphVkhR?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-0273c6154293813b40b0",
-      "title": "GTA 6: Die neue GameStar begleitet den Start des vielleicht wichtigsten Spiels der Dekade mit Hintergrundinfos, Details und Kuriositäten",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T10:00:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZkRRY2dIOFRNZURFZGlFZzhrRldTajRTT2prVVB4bVBseUdSQUlUd3dHdW1qOGZIbl95aWRpdVRpNl9RaEJNQVRtTkZiU183WTB4cWtUYWZYU2hoVDB5ZXRUSy1ydUdhTk1fNnFPclRBb3ZMNzRhOEZTd0Q2S2ZCMFNDc3hFeEJZVEZnWHlhTGxkX0VkQnJhRlhsX01JRjg0YjdlT2hQRDhtUjMtQThrWFRhZE93REFETTNmQUFXdnVaakVKN2VEQXZZUVM0aFNBbVF2NUQ4MWpZMmY4S0FsYXJtOWxrOEJrUFJJV241QVl6cWZJYWlYYWZpTE5SeTRnM3RpT2dIWTgtZDFM?oc=5",
       "category": "feed"
     }
   ]

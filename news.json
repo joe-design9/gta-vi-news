@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-22T00:30:02.325713+00:00",
+  "checkedAt": "2026-11-22T08:14:46.851122+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,46 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-f92f084c278baa5f5b30",
+      "title": "BVB siegt in Gladbach: GTA 6 als Belohnung für den Tabellenführer – „heute wird gespielt“",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T08:00:03+00:00",
+      "sourceName": "WELT",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEJCb01oUTBfQkpEWi1CRmdIY2Zva1lpbi1XcVVRNDlkOEVMdDhwUVBUZl9fb3VkTXA5Sm80NFY4LUt6NHcxZmRkdzdBUW1xVU85UGxZN3I5Q0owSDdlaFlqYnkwcURvWlp3ajV4bUJULUxXa183WmhNeWl1VVFSS0pYb3BLLXpaZVZWbE0tVXVVNlRvUDZoUmN6Q25xUHdDM29naXdoZ1lrLUZybzY5Z1hRQlBDems1c2J6bDNfc05KQkFjVnBrTXdGN3ZaSjFwSl9EVnh6NVFKal9zblNNdXg3ZURQV3NfTmhKOFBmcnFSYUkwMlBqblFBRi1vVnpMcE9kdFUxZC1XOGJ4a0I2d1Jma2pKQQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-0468f227f7bc622ae1b8",
+      "title": "GTA 6, Elden Ring, Baldur's Gate 3: Was diese Hits gemeinsam haben",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T08:00:00+00:00",
+      "sourceName": "PC Games (DE)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWo4QlBnSTBhQU9YRzR3dEhRRVRQSjQwdlZHYWJ2WDBqYklaZi1GQ3Nzd1pfNHlNSTNvVXZOTUFGVC1vTlVfTFRTbVhkdmUzNnpGOGpPdEF4VlVTRmI2QlZrSXpwRHM3SGZtdzZYaEpHNV9DTzR4c3U3bmw5eEYxaE9YRTB1SWdsREJUaFpmeG5La2dTOTFRRlc5aGJBMVJMNVNuY3lzeFRtMjk4YWc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-20be0d24231f89d30478",
+      "title": "Ausgerechnet im Heimatland der PlayStation ist GTA 6 absolut nicht auf Rekordkurs",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T06:34:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTUxNDdUSjg1NUpsSkRoQS1lRlhLR19sblQzQk9kVjBuZTVBUlY4QnlINmJrVHYyZndfZUVJUlRjZllKeUViRlNJZTFtMmtWTjB6YjVheTZwdzlRazRqdGVRZEdyXzRTQ2pNNklvS3BLUk1fQ0hKWFVBN19fdk1NWDUtQUozRTZHeDk0clpLampENzgtdG5iamlsUVRkbmJnODEwY01jVQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-78d636ae307159e02301",
+      "title": "Eines der krassesten GTA 6-Details wird kaum jemanden auffallen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-22T05:55:00+00:00",
+      "sourceName": "GamePro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWdUOGNva1UxZlJjdmNvUzJuNnc4R3NucklVa21Gd3dqc3RuWjBpVmxMU0tjanZlQmJqSUNXdzFCNm1vanQxUk1lUGlkWkpqRWk1QkkyTXBHYnFSbFM0R2N0cnY2QjRtR0stVk5mRjJ2UTFWbXBFN01OMFhLb1hBdFh2VHNjemsxSk9QODFOXzNITzQ?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-6e915051251d52331a4a",
@@ -197,6 +237,16 @@
       "publishedAt": "2026-11-21T11:10:00+00:00",
       "sourceName": "ComputerBase",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTZPWUZ1aWVXazFWeTF3UWdJRWpwTXhNQS1odk1oSUZ4NkxiaDB0cmx1WDJyaUdVQXoyQ3RZUmtFMXZmM01fLUlzQVhDVzR6dmRqQUdLekVKTDhUTHR6aVdLcWVIUTVObEhNckhKTFNva0szX18wQkFsRkRQREJKRjVPb3ZPZTBCMEdVb1JEODBiMVFVLTl3QWlEXzlzazRUOUh5ZFRuYw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ab1556cd5a189c95fe20",
+      "title": "Russisches Verteidigungsministerium nutzt \"GTA VI\" für Rekrutierung",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-21T10:56:29+00:00",
+      "sourceName": "Deutschlandfunk Kultur",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGpIS2U0R2tuWF9IYVB0QTBaMXhEeGRyLVAtMkdCbDk4XzlHUDlKM0l0Qjlyc3kzV1FCdDgxbENLMTlxVTVURlQ4OXhDeHNBZnRCVGpSenRKbHF4WE5QTDJ4NmNCT3J0M28tUWxNeW9jWS03aEFrRm1tblpjTkdUQ0xjT3R0bnZJMlp3RVBXa2V0eHN5T0lXR1V4aW1seWtFTjhwZVRxa0tLSkNjczF1NExR?oc=5",
       "category": "feed"
     },
     {
@@ -1497,56 +1547,6 @@
       "publishedAt": "2026-11-20T10:00:00+00:00",
       "sourceName": "GameStar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZkRRY2dIOFRNZURFZGlFZzhrRldTajRTT2prVVB4bVBseUdSQUlUd3dHdW1qOGZIbl95aWRpdVRpNl9RaEJNQVRtTkZiU183WTB4cWtUYWZYU2hoVDB5ZXRUSy1ydUdhTk1fNnFPclRBb3ZMNzRhOEZTd0Q2S2ZCMFNDc3hFeEJZVEZnWHlhTGxkX0VkQnJhRlhsX01JRjg0YjdlT2hQRDhtUjMtQThrWFRhZE93REFETTNmQUFXdnVaakVKN2VEQXZZUVM0aFNBbVF2NUQ4MWpZMmY4S0FsYXJtOWxrOEJrUFJJV241QVl6cWZJYWlYYWZpTE5SeTRnM3RpT2dIWTgtZDFM?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ff08b2d1c32e2fa87082",
-      "title": "GTA VI schlägt „Die Odyssee“: 1,84 Milliarden Dollar schon vor Start",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T09:56:54+00:00",
-      "sourceName": "Merkur",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEJkRjRlMFBiMFVWYTIxNVJ3UEpISVJqWEVCaFVhTUJnd1BlQXBnUlFBN2puYmxtUkZPQ2lrWHBtUkxsYmFuX2M1VGtQQlJWUlo0Q0RDWGs2NWdBVXc3Q2h3ZXprdEhGcHlfU3p1c2hqaUtFTmNMUDA4RlMzZTY3MHBsNGpsME9iaG8wQUM2bEFHN2VnSzdwWVFkUGl3VW9pZjdZOFBtUEo4b2xTcG9DcTBuVTU?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-74402975d0cdc075038a",
-      "title": "Rekordstart für GTA 6, Rückschlag für Take-Two Aktie: Chance für Anleger oder Warnschuss?",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T09:56:39+00:00",
-      "sourceName": "Der Aktionär",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0JOOWJEZ1hRYWdnZmNWQjk0NnRTOTRQMkQ4b0hfWlF0MU13VzJyUXNYS2RwYXFLUjhrTFlyS2NSYlJJN2xNWDZFbUNrQ3BoZm5kRklIZkdBS0huT1BlNjFiS25kZDVHUWN0TE5QR055ejRqMS1tLXJWeUhXUG5YUVNjMlAtZHNQd1o0S0RfRkFjVUtzTnVZaXg1NVh1eDRiUHBtQ1pvalQtaVprdWEtamhqRHFWTnZQZmZrUUc0NThiRjM5V3JlSk9lZjFmeG1jelg0eEVMbHFJUEtpc0xuTg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-2f257b4e1436f3bcc6a5",
-      "title": "Wegen „GTA VI“: Frau aus Hammah erstattet Anzeige",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T09:35:00+00:00",
-      "sourceName": "Tageblatt",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdV82S05mbmtTV1JZSk5FbUZPam10eFFmSklGRFFYbEtONFFyVDhxdzhtUlc2OXcybTRRVnIteUpzMTBQczNfNzZ3OERxeDUwOS0xb0hjaFRFd1FoZU9zNkxySU5qZlVVQ3ZZd0JZUHAxUVMzUGI0d2hRODZIdTROcEYyNnB0SjQzTHR2Ym9McWJodDl4Q3c?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-ec794bcb6ffd6f8166a1",
-      "title": "tagesschau24 - Videospiel GTA VI freigeschaltet - hier anschauen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T09:15:41+00:00",
-      "sourceName": "ARD Mediathek",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYWF2Yy1NcUZBZm53TGgwZElaMEt3a3VaV0lCZ21pOXZNMmZqQ0psODVNem03UE9BSXFWTnh6Nlh3V00wcThjalAwYnRXSG5CU0J0TVdjNlA5NUItc090UHdBNUdWWmFhbmU5TTZSemV4RFYyUUd1T0NOaXFjRTJNTlc1bnNIVXhObFltOFFNWDdqdDdRUUlwSjNScTJ2V0lvYURlNXJxZlNKQk1qOFhkRlNQQ2dYWXp4NmxFTWZmaVZCRW1TcUw3V0Z6MjZqY0M5aXBuaTdPVURIUmgybWRNdlFHZjVaSnRjMGc2UFpkU0xsNjVRaG9EREVUZFJzUQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-813de8db0eedeb4f2c97",
-      "title": "Die besten Buffs in GTA 6: Von Duschen bis Schlange füttern – eure optimale Morgenroutine für Jason und Lucia",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T09:15:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW9LWVo4aE9IV1J2dlVQT2p0TjVTYS1vNG5YSTd2TFVUUnBZUTNYQjFqSFR2S3dEdTNWdDFPV2M4dmhSNG5zSHFpY0NsdXA1VnpVak5fYlh3R1RTXzVzVk9DVHlwS2NyeWp3dDR4am1lcS1KWlVXdzktLUFFRlQtOGFQWGc2elFDZUlraUNqaGJ5bHV5UkRnVGVnUmI?oc=5",
       "category": "feed"
     }
   ]

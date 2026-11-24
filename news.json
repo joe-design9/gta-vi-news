@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T15:00:09.366793+00:00",
+  "checkedAt": "2026-11-24T02:24:19.477183+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,76 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-3af7a4947a8d152c63a4",
+      "title": "GTA 6: Hört euch mal diesen Podcast im Spiel an, der dürfte GTA-Fans sehr glücklich machen ... oder auch nicht",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T19:30:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WVFcxUVUxeHhQYkhsUWJiSW92dzVFUnNMMDVMOVNzWG9FWWFyeXliYXVaU01lWXZHYzltYW92QXgySDNvaS14aE1kYzN4TzBRSjBxNGxjV3ZFMWFJTFAtSjJ5Q1BZQnVBTl9WMWtaRnVHbnJnTGZnQQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ddab9646908421c9d1e7",
+      "title": "GTA 6 läuft nicht auf jeder Konsole gleich gut: Eine Version liegt vorn",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T17:40:00+00:00",
+      "sourceName": "CHIP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUhId2RrNWlhUFhQRDZMSm5fMTJJVWNad0tLRk54dmtLUXhORUpTWkEtTjJQQ1IxMlNOR2o2am9aRS1nOWFhNFZSNXMxSDEyVlVya2xnb0FrdzctYjJPbERaYmRDenZGNkFBam9uX2ZyMHVzeEVtTUIybHZhMVNSSVlrV2tvbXJWR01RS1VabnNVNzNSYXVlT0hMMjZBM0ZHWlNKZm4xRkFlMGxuODEzaFdjRG85RmozbGwxaHhyU0hSTUwyWDRaNXlLRFNuY0J2Qy13eXNsWExiMkIwZkRtVg?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-9a8c15003e4ed9da915c",
+      "title": "Games Ground Berlin & GTA 6",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T17:00:00+00:00",
+      "sourceName": "ARD Mediathek",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM0VBZ2wxalVRTWhtVzdsWmREV0JKZGRBSGhuM1hNcjJ2Ylk1Y1h5SDZnOUU0OU1sUndYX29KMkQxYlZTa3Y4QUVwelN4TmVPTjlvUWx4eWRhTWRwOXZZUnpnV2ZmZ0xwc2lBSVRCVUVxSlRZYXVZRmN5SVoyZkh0WmJodjdHT3JRQzRjbkdFeGJfY0hTVmFlRW10TUFrNVlQVDN0dEhJaV94bkQwaG1CdmFKSGNBZ3F6dF9TUnVTVVFIN08tSldKZXJ1cy1LQXdRZDJxcm1uR213ZjJzdVdWVm5sMVdDQk9EVGpDek9COS05ZmdrazQzLUhrNDhjT0dCYkI3NHpMaDdRM1VEUGc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-15157842e52e76c98357",
+      "title": "GTA 6 im Test: Meisterwerk oder überwältigende Arbeitsanweisung?",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T15:44:00+00:00",
+      "sourceName": "FAZ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnNDLXpsSDU2RW1ZVHdsNUlzMDN0aVl5azgtR0FUU1hia2lWRDJBVVdFeE5UUjhqTWp2akNhZ3VURVR2ZklqbklWVzlyN3JqNW5CSWZGWnBiZklvdDVsMklFQ2JmcXJ4THFWSko3WGpYZ3pmMWtSbHJ6ZVN5dFlNeUNRRTRwbHY5Q3NTYVhJUDJ6cllmSmc4YmF6WVd4RUNPZTVGTzEzcmpLM3dQSEt1Y0k0V3FtNk5nN0xwcjRnUnRaTDJPaENTUnpCRnN2UG9yV3hvb2c0X1diRmZXTnc?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-00d65fc6fa5f8b112e7d",
+      "title": "GTA 6 bricht Verkaufsrekorde: Milliardenbetrag bereits am ersten Tag sicher",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T15:36:55+00:00",
+      "sourceName": "Berliner Morgenpost",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXE4a1lWZHhtRmxMcElxM094NmtqZFZkWFpDSllZTDdxSW1tM3lxOUdZMDFDaFRhWU5MdE5rS1I3Smg4VjZPRWZSbGkwaUVETm1YSXRka1pzbk14aDZKX19BOXRiUmpkb05nQzNvS2RnQXBTdlZfTG1XdE1FVzk4c1RGREhnRFJUcEstZWNIMFhZanRoVUJFNy1PZmtmVFQyQzFqV05fSmVWMDBtRktfSHVaVHl6eWRSSjJiZ0hwQlg2RXNFVFVXbDVGVGFCZw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-00719cd45d04f17eaf52",
+      "title": "GTA 6 gegen Zelda: Jetzt drehen die Fans völlig durch – selbst eine Legende bleibt nicht verschont",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T15:30:00+00:00",
+      "sourceName": "Buffed",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFVZSF9LYkJEM2ktcnpkczFrSVFCaktMM2Z2Y2hWU29aMElJZ1BLTjlBaFJTZjJOSFREYmxnUGpydFRKdUpXZm5YRlFmYmk0aDkycGJHQVA3d3RIbzdKR19NdEl3dDhnU2VDRE1sS2VwOFRncTZiZGdOSFlsZnVMcld6aXdGeDhlMzM3VWcwejA0UQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-8f0a9493a8d25fd9f12d",
+      "title": "An den Diskussionen um »GTA VI« ist einfach alles kaputt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T15:28:56+00:00",
+      "sourceName": "nd-aktuell.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa01ETkdUS3lYb2s3dkk5MVd5cldVTk9URUlBTkxuYUhpSHBBTC1lX2hRS1JZUU5Jc0l3aWtKMEtkckY5ckFCc3U2M3E1WkhKazBrRUM3M0lFMndjcXpneVRTSGhMbzVJTWh1OEltOTJrSmpsZm54ZTViSlNKUmhjQm1uRHRBdkJpc1M3dXJCb1M3Yy1MdlJMRUlwS1RpcFdmN2dLWWRVTlRYRzho?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-e0b9fa0e5b4dd863dae4",
@@ -157,6 +227,16 @@
       "publishedAt": "2026-11-23T13:00:00+00:00",
       "sourceName": "PCGH",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEdPbUpiZVVHT21qQ2JNb0x5T040SjNDb2pqeWtzVkpXV18xd3F0dkNremh6TDQtLVpxS05sWnF0dGtpU01LVWV6RkZxQmtTcnFQWG5xT2dnZVl6clU0MVFrbGVwTlhLdi1SREUyVVFBQjJkTkdGVUJYbm1wWXBLN2EwSy1KX3o0TnBzbzNSZDF3N0d1ZHlwYTR6dzYxVEdFSVdlanBR?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-4d08e7e8ff9f3ff34ddd",
+      "title": "GTA 6: Warum Leonida jede andere Open World alt aussehen lässt",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T12:55:00+00:00",
+      "sourceName": "T3N",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSODZRQUFNRlFYOXpFZU8ySFZYaXR4bmJ4QVBFRnlncEJPNkNzQ1A4NV9EYnAxbjJNRk10c1pSb3RJamdUTTg0MUd4aUlZUllTZjM5cEJMZTRXalc0dDVlbHQ1cHpMZXE1OEpmSEUyV0hTVGs?oc=5",
       "category": "feed"
     },
     {
@@ -1467,86 +1547,6 @@
       "publishedAt": "2026-11-20T21:00:00+00:00",
       "sourceName": "Deutschlandfunk",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVJyNW8tbHN0TkpwdGRKVkpuMGNiQkJ2WkNRcXRyUFA3VnhEbVE1YVhVd3lSTnVxdm9rWGxYZ0hIOFE0Z0VXa2I4WkxZM2pRaTI0dEZhWnJDNm10cWQ0OUtPQnFGUmhwX1NSMmd0d3ZNQVdRSWh5aWNSUnZVYjk4QWN2M3VsUC1KRUlIQTFB?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-7dde2fff2f48a0ac8491",
-      "title": "GTA 6: Streamer iShowSpeed findet extrem abgefahrene Sidequest, die komplett eskaliert und wohl wirklich niemand so erwartet hätte",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T21:00:00+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmlqTmc2by1sQ0JWR2FHUWMwWHMwMnlYUVlrQ2RrVDQwN2JGQ1JMZmR2MF94TjFCX0lWcTU5c0tXX3UxR3BCRmlELWFrVGdtTmNLTk01SG9YZzFEWmdZUDhpRm5TUEg0WWlVWDY0ZHlhYmhSODhodFR2ZDdQdGpJbnp1OWhUaXc?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-fea6db0d1175e93f51d2",
-      "title": "GTA 6: Verbirgt Mandy ein dunkles Geheimnis? | Alle gruseligen Hinweise",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:59:42+00:00",
-      "sourceName": "IGN Deutschland",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNMQmlDeEI0d0ZnRUxTdlM2S3RTMzhNRVB2QmI1NEZ5UGVibE10eVY2ak9sdmp4a01VS1IwUHNCQ01ISWcwQmVrODM3NDdfXzlXQk84Zzg3NTRmeFd2aEhrbDZ3Y09lTWFvMjlHSXpwY3RXdzBycnRzc0VYN1lEUU41RE80WEt0U1hzUTJlU19JckpBd1hlam14b05aQkJtZzB6VnNOUXVJM2FiT2pRUnpkTQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-267a94005e01aad4a33d",
-      "title": "GTA 6 – So bekommt ihr ein kostenloses Flugzeug oder einen Hubschrauber",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:58:42+00:00",
-      "sourceName": "IGN Deutschland",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE4yLWNubC14Zmd2Qjc3ZkdlWFFVQUhxLWNsUml4aE9VbHVFbnVYcVhpWU44emZKYkZBdzhfZGpMMXdGOVRYcDNIWlZyaHk1ejdEUEo0ZWk5Q2lCUDU3MlVqcG56RDBicFlCdUp5VXZodXZZSGhYUk9tYTdTMmJRY3BZMHFRWFRLNEZxNXY3QWI0R29OMG00NjJxSXQwNGR5b29ZODExU0hpU3pRNDNEUGp2UHJYUQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-97e057866f60c51cc7fc",
-      "title": "3,8 Mrd. Dollar an Tag 1: GTA 6 schlägt alle Verkaufsrekorde",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:53:00+00:00",
-      "sourceName": "ComputerBase",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWhhRmtvQ0FEczRzVUdkVkVONWFTczlTNXFMZk1QcEllUXRBci1yaFBXQldMM2o2bEJtOVVoQThBV2d6bXAyWFZfaDQ4MnhzWC1uazI5SkQzY0IzQlZ5dk5QQkhkOHBuUmRmV0FxZXdSR2dwTkwzeDNPd2lDemlPVFJaS0t6TkMyZ3hNQW4xMGZrcUFOYW9yQTFGSmNQcklQV1lwNGR4QU5XNVE?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-249bc413cc5c8f9c4454",
-      "title": "Unveröffentlichter D’Angelo-Song „Kamakazi“ taucht in „GTA VI“ auf",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:37:07+00:00",
-      "sourceName": "Rolling Stone",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ25RWVJkQnZDZThkLVJNOVZkWGxDU0pUeFFPLXNsR2lMRDE5b3FsdXZHYzIxZ3BBbHJHTmFtbWFNSHZ6MVpKYl9TVWQ0N0tRVFpKeGl2aUpDRUpqeUw2azg4T29DaEhGQm1ER3pBanlBWWN4S3A1cG5rMDh5N2NCdk9aaw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-51eca14b9c9752112029",
-      "title": "GTA 6: Take-Two legt offizielle Verkaufszahlen vor - und sie sprengen alle Rekorde -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:25:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzlfUzJscUxDVXh1QzI4dWZDZUdmZ1dkckRwVTFwQjlwZ01Kd2dERV8xdkVnWllsOS15QXNyN1dhLTctbDRKTVFKSTdZN0w4TWhPajRJMDlwQ01HR3Y0cXRRS1RncVhvV0l5SUJnX0NWVlpOX1NmdExweHk0Vy10RTFkOHg0SHdsRFZWeE5uUXZaYXNHSVpfV3U5SDQtQ2ItRmJFZTJBcW9JLWszTThTUnNn?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-6b2db49fc405a7fbe7b5",
-      "title": "GTA 6: Rockstar nennt unglaubliche Zahlen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:20:08+00:00",
-      "sourceName": "mobiFlip",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNZjRYMUdKMl91bzZaNTNiMzdhcDRhNXBpWmZnY25RWTJRZGxKWWI4ZGhtTFdkUXl5MUM1X1NHeUxQajdldi1pUzBFY0FZNHg3bWpHU0RFRkNvamtlc2pMLTZvZFZReHJ3SVcwS01kczBaaTTSAXhBVV95cUxNemI0dTQ1NDhaVjFZMTZYTDA2bk1hVjlXYkhSSWp4NlItM0UzTXR3Rld6cTFUelVwUlFzX2xjdl9QanE2VDdGUEhMSzJRV1BLcExJOTRiejZJdmR0TWtrdms2MmtycnpZSXprNXZ0ZmlkYm0xc0l1emU?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-3dcf8ed9371c5968c22b",
-      "title": "GTA 6: 15.000 Dollar verdienen – an diesen Orten in Kapitel 1 geht das schnell und einfach",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-20T20:16:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0tULUZDRWJyaDJFa2lGZW9WNmlHVi1hcXVIcE1uMEp6M2w4S1hQS0ZNY0R1b3loSjAzRFRTSnN3TmlDQnA1bUZzRWhxMUkxbWppY3lJTVFYZEx0Ny1KdXRqVkVoRDlKa0hiWnIzUGZHT01IdnNfZWZqOHpFLWNvZWtpeWJxOXExVUhJ?oc=5",
       "category": "feed"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T13:59:30.017061+00:00",
+  "checkedAt": "2026-11-24T18:23:30.019416+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,46 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-4031e998aba0371a4abd",
+      "title": "Rekord: 39 Millionen „GTA VI“-Gamer auf der Playstation",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T18:00:38+00:00",
+      "sourceName": "FAZ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXUxTTZLc05FaHVLRXJyc29Gem5GTEg5QWdvNnJ2c0RVZkdJelVId2ZhTGxVYktwRlZtYy1hOWE5MnFibEY3QWJZU1BUYUlkajUxelpROGJ3RDNPZWRoZUo5UUk4aVZLYUc4QTNVWnMxOWw3clY3WlVIRzRCR1JEMVplY2lPaUExcDU0UGl0QTRMcnpIRGNTbXkybXlVdXBMaDZxX2FsR21QR1FCakFrN2k5dTUxc2lXdlE?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ef7f051cd44385bc636b",
+      "title": "GTA 6: »Wie war deine Mittagspause?« – »Ach, das Übliche: Pizzabrötchen und ein okkultes Ritual«",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T17:12:00+00:00",
+      "sourceName": "GameStar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPejdNR29WUlU1cjZXS0xoUms4R21tNFVZUVFmZ2V4WDJfWHMzVkUybkRmc29GeEhsQU96TXlHUTBQYzdzUmxfT1NsQnJWa1VaRzJXNnFkaFFndnNKQUJYUWt0Q1o4YmpORUNOZHJvdE90TE82SjdVT1l4ZmhEeEFwaUU2eVpzY1A3TVd1NVY5RUxQNmtQQks0TnVQamk5d2ROUU13emlwZ2pCU3lfODhTemkwRkJvSENQRUVBdHJ2YThHa1A0NUVTXzQwTzJrN0VHaFVadVpZOVJPNmZDYkhBbmZKWXRpekZpWnc3M0pqNA?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-3a2b3c4bd2ceb1e8cd2c",
+      "title": "80er-Hit in GTA 6: Dieser deutsche Song läuft im Videospiel",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T15:00:30+00:00",
+      "sourceName": "NDR.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1ZhNzRYZUJEWHg2ODB6clNJVmlKcHMwNXdGbkhJb3k0emZqWU5nOWhiVGtCdUhLWlA5OW40ZlNhY0NMR1hCaWlPVVUzVDJjMjVjV0VlMVZfTWpfRGlpeHROZTVUOTA0bXNRRjFTelpSLTI3cVR6bXA2Z2JmVmVaLTJITW9vLVFVRnJwX3ZTRDliUW56Z0JTX3FsbWY3NHJwRWZNOVBZUEUwbFVuSDNSNXZFUHhscWRyLVFqM19pOHI1aloxR0tJNng2aUFITko2Zzk2M245Zw?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-173277945ae44e511c8f",
+      "title": "GTA 6 ist zu gut: Entwickler des Cyberpunk-2077-Nachfolgers „gibt auf“",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T14:00:00+00:00",
+      "sourceName": "PC Games (DE)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjc5MG01YkZKdTJVOVBzbWlDcnRuQnZZalJZdVpGQ2s2czFsYVZPS2xBY3hhbmxsZlRVSkJWUE13aGVtWnRiUFVIQ1pxUmloRl82QlN0S2VSMnRpY0xYR1VWejdDY0FzQW8xMk1aaDJqSTFzNVdIckVhQzcyMkxkcmFtZnU?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-40f38feff5ae41c08647",
@@ -267,6 +307,16 @@
       "publishedAt": "2026-11-24T10:55:00+00:00",
       "sourceName": "IGN Deutschland",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclB6ZDlQeV9qby04V2pvQk1QNjZhbTgzWFd2dmpFREpWc2staXBYTzFIS3luNjNvdzMzcHZVb0NZTDFTelN3ZGtYaVFkZFlxdUdWaUhBam5HaS1VYUw0OU1WMUdBbC1PRWhYVHFrMV9sU0YxLXc3STJiRk9fYU5QUDU5SQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-124dd3f9999717cbcc46",
+      "title": "GTA 6: Rekordstart, Milliardenhype und die Frage nach dem langen Atem",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T10:45:47+00:00",
+      "sourceName": "BondGuide",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzB6WnQ0S1E4b3NKSWZqazlUdEJJZkxKV0pkanFSY0JMbk9QS1pZOEhYQ2JLTFB5dmhEaXNxZkU0QlI0RTQxWmxIZzU3eFJFVXVOY0NEeWhLSUNCOTZzUUV4QnR4UTIxVGVvbEc2YWhwZlB2U0VYTXZnVXNUYy1neEgzSWdqQkhRcUszUEl6Q2dyelZnMkpvakZGT1RUN0dSaS1N?oc=5",
       "category": "feed"
     },
     {
@@ -527,6 +577,16 @@
       "publishedAt": "2026-11-24T05:02:42+00:00",
       "sourceName": "4P.de",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1hOcEdreFZZcjk5ZXZMZWNDaFZva2RycmNLWlY0NWk2UVZBb24yOHNLOU9hNnF2ajB4QnNRQVhyU3hjenFGTkQ0Y3BTTjRYdk1ibG9YRFcyZDN4dWJyd290NUlZT2ZiRnRqSXBKOW9ZQTZZUzN5SWVGcExvMmlUSzJRLU0ySjhyd0lxanNqYXJ3QW5fZ2N5eE9QRQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-d0c17f7028b327eebb84",
+      "title": "„GTA 6“ ist da – Wertung, Preis und alle Infos zum Rockstar-Spiel",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-24T03:07:03+00:00",
+      "sourceName": "Neue Westfälische",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNak5hNHBteUtkYTZpWkdpNnR5dUZFeFoyNGNQeTJnZTcxV0xwcE85YlMtcEFkRE1nRXZJVnp1QTFsTW5hTzlyVGFtTEJubUxZRFdWRjloVUVwMENzMHl2OUUyRlAwbFlnVjN6T1NHYVl5XzN4MTBUcmhRV1ZlanR4aldKc1Jic3RqQnh6VTR6dFpveG9jUTU5ZnJvNDZaSjRueWhneTVSMkt0NnVjS3hqUQ?oc=5",
       "category": "feed"
     },
     {
@@ -1130,6 +1190,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-ba1a3edb287a1b58bbfc",
+      "title": "Nicht EU-konform: GTA 6 in Europa verboten",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "sourceName": "WELT",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWdZLWdsUHlLVmd6bW9DUHdwaWUtS3F6LUZLMkc1Q1J2d2oxVS1yREVCR1lMYWxWc01WemNOekJTTUg4RTRNMTB6Q0lNcU1iY19yNEppV2NDSlVjU3pyYmgtT2RaV3lNbVBWaU9YazJRa0VNYWUwZVh4YTNjd19YN1pybVBkSWFXZGRiMG1BVERqUllYOGNWOHBSeHNCZ2NBV1ZrSGszQkI?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-4894ba3cb60c02c15ead",
       "title": "GTA 6 sprengt alle Rekorde – was bei Take-Two jetzt zählt",
       "summary": "",
@@ -1477,76 +1547,6 @@
       "publishedAt": "2026-11-22T10:11:00+00:00",
       "sourceName": "Die Rheinpfalz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2szelBwclI0dDJSRC1qRUVjc0gyTzR6WXFNQ3RyaVA2UFhtRTQyMFBrcjY4Z2FOMVNZZ1VBdDNUNnBONzhtdm1hLW1lZFRxb09KZnpaRERLdmRtZ0prYnRRRXpEXzQ1Vk1ILVZGYk1PZzIwSUhlam04TkFBWDRZdjV4elFQWTJ3d3Z5NFJGd0hrYWdGVjIzalYtVlhYY1NGQUN4WldUR2o1V29OUkk4cExtOFhFMkE1Y2ItN3NmNEdaZw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-c9d3584d75b60080d8aa",
-      "title": "GTA VI statt Nordderby? Klare Ansage von Werder-Coach Daniel Thioune",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T10:06:38+00:00",
-      "sourceName": "90min.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXY1endTNGFpYl8tZ2xTTXdBSXdVWEdsWkdOX1NFQkVGajBfX3F5Q2NyaENnVDJHYVBxY2NPUXRhSUEzWVBJMWh4b2ZlTlBPa0d4eGNLNjEwTVR3S2pzdnhpZjhhNXZ1RWV3bDRVSWV1OXpsNnVZTlpKUFZMR0ZsRkFQblhKLUtNWHJpbUZjODNXUQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-49c7c8e9bcd50014c964",
-      "title": "GTA 6: Die Rettung einer kriselnden Branche? Ex-Xbox-Chef betont Bedeutung des Blockbusters",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T09:32:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWG1CUVhEWDV6eDllT3p4ZlNJcXRiYkpTblZ6UUc2eWpmT2NRNkZ6bUc1QUdkYnB3bmpZRUFOTWd3UGQ3MFA4T1M4UEtCU1drcnotck5PQjUyUXMwYldNeTlTR3Z2TF92NWc4aHhqczRsSmNRcUFnM00tdWdxcllnNlZpV2pMdjJZWVhCbEtOWlBsSzV4bFpPWmhmN0FyS2VBOWxaYUI2OXdSNVRjYVhndk5WRTQ4dFVBOERKUlItOA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-761edb68bcd202f635cc",
-      "title": "GTA 6: Wie bei Baldur's Gate 3 - nackte Tatsachen sorgen auf Xbox für Ärger -",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T09:25:00+00:00",
-      "sourceName": "PLAY3.DE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkVfZlY0UTB1S1pOZUt2cTVCTElOSjFyaFB0ajgtN0loeWZVSWZlbU5tYUJOejBkeG8wX2FCSld5bVdVc21YSkhxNVFjTXBXUWppdUVFYm0wSzNmLTRVaG5nTFBDOHVwM3NzbnhTcXNIV2Y3MGFoZkMxS3ZDcHVKVUJxUmp6cjBSZVVwOHVFNjRrVDU2SmtTUGlrMWZBOThYVm9xOTI2cXMwdw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-d9236f3de9120fd953cb",
-      "title": "GTA 6: Auf diese 4 Dinge solltet ihr beim ersten Spielen achten",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T09:15:00+00:00",
-      "sourceName": "t3n",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3NWF6ZEk1YWY5OTBEZ2R4b2R1cGkxV0xabXhhUHJaejFCOFUxbE5wWkVGQkVaNmJtVFVkalBtRzFVV3FmZ3Fod3hEUS1LR1hmOEF5SHVoOHllbzQxd3c?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-0a583d6bbb79c6b98e71",
-      "title": "Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T08:34:24+00:00",
-      "sourceName": "Deutschlandfunk Kultur",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-f92f084c278baa5f5b30",
-      "title": "BVB siegt in Gladbach: GTA 6 als Belohnung für den Tabellenführer – „heute wird gespielt“",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T08:00:03+00:00",
-      "sourceName": "WELT",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEJCb01oUTBfQkpEWi1CRmdIY2Zva1lpbi1XcVVRNDlkOEVMdDhwUVBUZl9fb3VkTXA5Sm80NFY4LUt6NHcxZmRkdzdBUW1xVU85UGxZN3I5Q0owSDdlaFlqYnkwcURvWlp3ajV4bUJULUxXa183WmhNeWl1VVFSS0pYb3BLLXpaZVZWbE0tVXVVNlRvUDZoUmN6Q25xUHdDM29naXdoZ1lrLUZybzY5Z1hRQlBDems1c2J6bDNfc05KQkFjVnBrTXdGN3ZaSjFwSl9EVnh6NVFKal9zblNNdXg3ZURQV3NfTmhKOFBmcnFSYUkwMlBqblFBRi1vVnpMcE9kdFUxZC1XOGJ4a0I2d1Jma2pKQQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-0468f227f7bc622ae1b8",
-      "title": "GTA 6, Elden Ring, Baldur's Gate 3: Was diese Hits gemeinsam haben",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-22T08:00:00+00:00",
-      "sourceName": "PC Games (DE)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWo4QlBnSTBhQU9YRzR3dEhRRVRQSjQwdlZHYWJ2WDBqYklaZi1GQ3Nzd1pfNHlNSTNvVXZOTUFGVC1vTlVfTFRTbVhkdmUzNnpGOGpPdEF4VlVTRmI2QlZrSXpwRHM3SGZtdzZYaEpHNV9DTzR4c3U3bmw5eEYxaE9YRTB1SWdsREJUaFpmeG5La2dTOTFRRlc5aGJBMVJMNVNuY3lzeFRtMjk4YWc?oc=5",
       "category": "feed"
     }
   ]

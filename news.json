@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-28T08:08:22.616904+00:00",
+  "checkedAt": "2026-11-28T17:00:05.112199+00:00",
   "articles": [
     {
       "id": "40020342-3ee5-4992-9f2b-13d2eeeb888d",
@@ -48,6 +48,76 @@
       "category": "official",
       "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Rockstar-Releases-New-GTA-6-Screenshots-of-Vice-City-Jason-and-Lucia.jpg?w=1280",
       "imageCaption": "Offizieller Screenshot: Lucia und Jason vor Vice City"
+    },
+    {
+      "id": "rss-63c0b103755b2ed3bb54",
+      "title": "Optimale HDR-Einstellungen für GTA VI auf 55-Zoll-TCL-Fernsehern für verschiedene Lichtverhältnisse",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T14:24:53+00:00",
+      "sourceName": "GameGPU",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDNZbEp6MGp5eTFadlpZV01pU08xWmJPeVdyM2FvNFpCcjcwUGtTMUdicGtORUF2dkUzc3VwaFp3U2c5UDBrM3lZam5CVFBjeC1rRENuTmd5bE8zdlZYYWZXeVUxYmphdEpiWFlFTzFMYXR0MGNxN1RuSGdHSkJmYTNLbk1FVHdaV25ZU0s5TzQtd0pFVElJS0JIN0VZRTA4ZTBaWFloZkV3X3c0Q1R1b1dFaE1HWnpkd3lqNHhYQW9YakJIXzNxc1JR?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-973b069a9a6f246544e5",
+      "title": "Besprechung zum Games-Hit: An der erzählerisch interessantesten Stelle verlässt »GTA 6« der Mut",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T13:36:00+00:00",
+      "sourceName": "Spiegel",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHdBTzc3d0RDb3BGSGZ2M0NtLVRuTTBfQ2VkV0xJUFVkOVlPNk9IVFdJeGVaMnFZRldwVUtBSDlUN2tEWEJLWThBNDlncDhWb2dWXzM3QzVEMERFQzdCdElIREtKQ29HUjZLY3JDdHRlNFdfYVA4UkFxQXFFUW5BMVF2Y00zSEw1emtzVnJWM1B2dHN5TExEMFFFM01oTE9xQzZnQk5DUmRiV1JLdnRlTEpodUowcnEzaURWWkZEWGpPRFdVSnpVLU85em9HRTBKTjREdWhwMktyTUV6QjN4VU1rUHpKNVhSOXRSWW1GVElMdkdhY2c?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-69ec0f1777aeb4141f67",
+      "title": "Gaming im November: Legend of Zelda mit Kampfansage gegen GTA 6",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T12:47:00+00:00",
+      "sourceName": "ZDFheute",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUxjUzZOdVJSbkx0UUg2N0g4R0s1Tzc3RnptS2dYRjZMWkhLWXhxNFJnU3FzSEFnS21HYmpwSmNDdTNOTWE2cC02a3BKVVBFR0JLMTRMSzR3U3YwdVZqYnVUeHU0dkVNQWlxaDF6aVA0ZWUyVWZGcllkM3Yxc2FZU0xVNnNCcVV1VmVJ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-71c69b3cf0791dd89fd4",
+      "title": "Black Friday GTA VI: So zockst du das Kult-Game noch heute",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T12:42:42+00:00",
+      "sourceName": "HIFI.DE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE1CdGpFNXlqbXFNeGNTTkp4NHM2bDlVMVNBUmU2bGN0RXQ1MkJnY2JTTVlacGNSZEwyLXh1c2tKb0VtbFNtNU01dXpUekhkV1FiMmNERGJaaDN0R2FkTHpRWUxlYkJhang5NlE0SzNNeXM2LWFWNHRzaWpTZ3c4V1MwMUw5VFhWd0ZsSFFaRk85ZDdITllvRXcyNHA4X3M?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-b16e6d6089e8259e4add",
+      "title": "GTA 6: Was ihr auf den Leonida Keys nicht verpassen solltet",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T12:00:00+00:00",
+      "sourceName": "PC Games (DE)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPME9vNmRTY1lvRmNaV2ExTmxtMVF3MFlRWjhGd1FZRHRxcUZzM1VRbHBLV1dzWjBTLWNLWEs2a203WnRkR3lhdDR5T3M1NXJ0RTRwSzRhRV81V0hfR3FidUdqZkhsRWwxOW9yQVQ0Mm9XUU1laHlkQVlKLTVORHVxa1pEa3liM3ZuNlNkWGxzcTJKWE9Oc3ZHOTE2R1dkaTVvYnNmV2Z0b05ZUDQ?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-6680e134f22ee29d8fee",
+      "title": "GTA 6 auf dem Mac: Inoffizieller Port läuft mit knapp 5 FPS auf Apple Silicon",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T11:00:00+00:00",
+      "sourceName": "ComputerBase",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFF2NGRkYXlHTEExZFg4XzdDOERjd2gyNlRIUzJEaUI2RHpoYjZCc2N4VHhtbTRzT2dmNUdPZmFaX1otYmlvQWppRFdoWHRwVHJDN2wyT1hNRnpscEl2bzQ5SElEb29oU1Q1V2ROcDBpeEhDM2FyTVBnOElkOG5EcWhWZlFVOElWQWdOXzNSdXpOVVJJY2xoanViek1sZzV1TGxtRzY4ZVI2MWpsN1V2Z1VOZmotc2dDM1VhTy15SGJncjA?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-ecbb5a0cded34ed7deb4",
+      "title": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-28T05:15:00+00:00",
+      "sourceName": "t3n",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRnhZNWZYSURkZ1oyczUxaDBoRlpZYzZxcE1kM2R2YmE2ZkRqMmMwZGpEREpCbjM4Y1ZFRGh4M05FQTRNYmJ1V29rSjVlaVFfQUpLY2xLU3gtcmdfaFBKX1pYLUkzczlMcDUzRm9Dbw?oc=5",
+      "category": "feed"
     },
     {
       "id": "rss-9b2a21231dd6d7d2e812",
@@ -607,6 +677,16 @@
       "publishedAt": "2026-11-27T00:46:00+00:00",
       "sourceName": "CHIP",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObURuaXlTTU5SeXFhTE5nTXpMelREV09JTkx2aGNrSzNGUFI0THJtV0ZEcTd6MVpxM1FoakxJclhkLVBkck1kdXZvQ2dWaUlDUjJBZHpVUlJhanQ0N2Y4aS11RFhPMl85dHF1SmpqcnppX0tuRHI3aTJIM3pneGVBalRldGxMQXZLV2ZBY2pwZmQ1QjBfQmJzVkJxZUV3WGdnQ2lzMlB0NjdDR0kyeHlTRE50Y0QySzNyUHVMWWN2WkRlOWR1OFlyUWJ1QWFPX0c0SE9vUnFQeGZqajB0aFp1aTVOTGpmMHI0LTl6Tg?oc=5",
+      "category": "feed"
+    },
+    {
+      "id": "rss-b0ee398caac76e70e118",
+      "title": "GTA 6 bei Lidl für 69,99 Euro - zum Black Friday wieder verfügbar",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-27T00:13:00+00:00",
+      "sourceName": "CHIP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORURHeU5NaXBNYkppVFMtUkRrb2RmRjVURGtfWjJzTmtnZXZUSWw2dEdMZUZsZkY0MjAyNml6SUpDNHRrbjlKN0piRWhkRjc5MXhDM05xWWE5REY5MTNFNmVUM3NLZ1hkLWVtNWhmbkdMT01RdEJKVmNzcWlfTlQ4S1BQMFFlV3RXUmJacW8xZTllZDJROUotZi1MQzhZMWRLSWN1eTRFa0VjU1FVXzV6Mlowd3pKQmpYZmotTjhzdUNwbXl2QVFqRXNyQWR6eGJZYlRXMlNESllob1pSeFFrMlFmZ2xweFBZdlZfNzFEaw?oc=5",
       "category": "feed"
     },
     {
@@ -1250,6 +1330,16 @@
       "category": "feed"
     },
     {
+      "id": "rss-0a07c34791b219d67cc9",
+      "title": "GTA VI: Die physische Ausgabe hat in Europa Verkaufsrekorde gebrochen",
+      "summary": "",
+      "body": "",
+      "publishedAt": "2026-11-26T06:16:00+00:00",
+      "sourceName": "Instant Gaming News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEVrbTJSUTJBRkkwNEpNNFQtSHFReVhEYjFFcHVQMzFhSEZQMjZxNlFRT3JPVW9Ga0ROb0h6UU1yaGthNFRTb01UVlo3YjFmdDdCel9YOFVfdG9yc2dkTG9DX1JSZkdBTkQxSTVyYi1sM2xLNDJPZTJTYjBqaWVZSzRlYXFnWko1R0gyR1dQc19xLUZ2XzVnZlNnNk1sY0xYZ0NhR0VtNFpaUjg0TFNwVXd5SW1aNklX?oc=5",
+      "category": "feed"
+    },
+    {
       "id": "rss-ceedcbf10648c8cac9e7",
       "title": "GTA 6 als Messlatte: CD Projekt traut The Witcher 4 einen ähnlichen Sprung zu",
       "summary": "",
@@ -1457,96 +1547,6 @@
       "publishedAt": "2026-11-25T16:16:33+00:00",
       "sourceName": "BILD",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZk53MW5QRGNDY2xOX3JvV3pycjBINjgwSEw0aU12WFc3bmxJN0xJNm0tRDVOQnZXakg1ZFpnREdxU2Rpank4TTd4QTNMQlVKUnFsS1J0Y3NGYVJFR2s1Qk43dVRfUVZaZEtSQUU3U0hzVWNZbTdCemdDdTdCWEtoQ0FqTy1PVU4xMEprd0s0aTdnWTJKd2lFR3g5Sk9zMDFJcG5oOVVhV0VlYnJHUHhET25iZmd3MzZMUm9tVXRnUzNTUGZlVTJCNWxzMGVpSGQ4VjB5QzdlSG9fQQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-413436982bc23c8c3805",
-      "title": "Heiterblick #92: Bei GTA VI kann man Leipziger Autos klauen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T16:02:08+00:00",
-      "sourceName": "LVZ - Leipziger Volkszeitung",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS19ENFhiSTlPcDdIcDRKY05mWG5NVkt5ZEI4NVYtOV9QbDdiUjhfMkNIX1ZHMmJ3SF85Q1lqWFZFMlk4UWxNbExaWDVwd01IYWFXS29OTGs0RzlkRDItTmkwcFBjdWY3bDY4T1dfckpfdHFYYXE0eG5pazJ6elpNTDZLdloydWllTkdreUg5dldfUjV4YW5VS0J1UUdJdndzY3Q5TnJYQXcwVVhoQWZqSlE3YlE4dEpYSTVTSEJhTGdPZ9IB3gFBVV95cUxQWlgxNGM4azJnUThHd1pJNTFURzdEUmpFb09YdzM4a1lLci1JbVI3aE1pejlrWlhBR29rRjJManFCWlpXSHJ2X3JlT1hwVjUzT25yMkRHeWd2UmJyNmkyOVRPcnVXbTFUUHljdDJLOWhNaE1nQnZsMVNKNGFxV21aZmRMRGNyUk8wdUVtSXYtMVpYMzN6UjNzRnlEUkQzSzhHaU1ybmU4NHlZZjF5ajlXTVE3ckFvbUhDY2Z3QXF1dXBGdlFWRkZfVU5zSzJIU2J0UXBWdlpSbTlSTDZHcFE?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-7019eb3229d64d18653d",
-      "title": "GTA 6 trifft auf Saw: So überlebt ihr Rockstars geheime Horror-Mission",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T16:00:00+00:00",
-      "sourceName": "PC Games (DE)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXhOdWlHYmxwc0s4QWtHOU44QkVrZXVKQlR3Sl81NE1NeVNCT3Q2aFFVbzByLVViLS0tTW1Qb25RUHJaMUN0eU5oaEZlLTNxbjZTcnhVSXBkMmFuNHhxNm54bTZ3bmVOU0JXaDRXamVtTVRCbFE5S1pfcVRhZEV0R1cwNFFtMG42ZWRhT0Y1a0NOckpFTFZUS21B?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-791d717053540271c296",
-      "title": "Das bestgehütete Geheimnis von GTA 6 ist der Schlüssel zum gesamten Design des Spiels",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T16:00:00+00:00",
-      "sourceName": "IGN Deutschland",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1pJNjN4SWF3QzlvZnJUTDBZRzBzdEVPZGxzbGlkOGtUeDdweWtmd1lGaFo5Zk96NXNvRjZyX2ptN3Y4SDJoRXg0YXFBVlNGRmlfVzU5WHJSMHAtdGFIalpIQUFLWEExdHh2THNSbDJyOEdfZFV3T056UzN4LTE3ZFhzbmpOeVR0YXJZWG8xYVUxcEtqSWxOZnk3M3lvb2k2Uks0MWhpb3lRRE9jdEhQWmRETHRZTGZra0VfZVJwd285RzBsU2FOT3dESQ?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-f5e2e9371f5ea1ea2df8",
-      "title": "2 fps, aber spielbar: Wie Modder „GTA 6“ schon jetzt auf den PC bringen",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:52:00+00:00",
-      "sourceName": "derStandard.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlUzcnJzeS1QMWdxMVhjU3duRVUydnRMdUhqOVR5ekloWDJTdndZSzFCeUQwUzNUYjhtODF6T25JcGs2dWwyN09Jb0hLbkV0UTFOSDVyTy1jXzd6c2I2clJ2YjY0dHQ3Q21TR0dVcE12Wi1wanRfNm9USEdwVFlqdGhoUTVUenpQLXd1MFlqSmg1eFliNy1DQWpZYzVNVGxuelFidWItVERqVWJTTVhRYm1LNUg?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-541da46203124087bcae",
-      "title": "»Das ist ein historischer Moment«: Was da gerade bei GTA 6 passiert, könnte die Spielebranche für immer verändern",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:52:00+00:00",
-      "sourceName": "GameStar",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KRFJuSWdnclhra0Z4ZGkxUWdIM0xKaHhHLTg5eVNzamRDcUFGZ3p6OUtmSEdack5IcmhQWVdxbXZjU0M3Z3I3NV85THlvQXVfaWtGTEl4c2ppcjBJNmg0LVJsZ1VKdnRidThkcnFDTVFNUTA?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-bc27c41cdd54881848e4",
-      "title": "GTA 6 zum Black Friday 2026: Die besten Deals zum Loszocken",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:30:00+00:00",
-      "sourceName": "CHIP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXZObktYSjJ3Vjh0d3lxNVRhZXRPYy1wSTVOd0Q4NWNnWWxaUW44UUZlbWx2Z0VmeXplWS0ya3l1VXNBUk5feHFPZjJKRnhkTk5UM0RWX1Y4bVNpcnB0eC10d04wUEtJT3RvQUh2TmM3RFJjY244cFFMMGEzbjBqdDlxOXVQbE9xUk1XVWViYmFpOXhHdTlza3BGSVpQODlIUkExd3l4LVN1bTZON0l0Rllicm0xLXpMZ2FRSUZCYVlIZlRKTk54WGl6UDUybENtTng2NU53?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-8668f54b0c55b801c27f",
-      "title": "CB-Funk-Podcast #194: Jensen nimmt eine Auszeit zum Start von GTA VI",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:24:00+00:00",
-      "sourceName": "ComputerBase",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFseUFmcWthU1E0NU4zTFI2bzZJSUtSaG9USjF4SXJCcGZKMHpFSVdidkJrQllOM1MySjZfSEpPeEttQld1c2JIakh2aHdvd3B2bERCT0tUT2VWMTg2ZktiMUVsdms2SEJmczlBSHdxOEdZZ0dMdEtMdXBVenZhcmtqUmRERVl4YmZKTjY3UlhTRFIzN3REQllfZ3lOc1B1cC1fZ3JGM2JWelQyVDI0RXFQQzk?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-766cd31d86ae5186c61c",
-      "title": "The Witcher 4 macht's wie GTA 6: CD Projekt Red schließt Marketing-Vereinbarung mit Sony ab",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:22:00+00:00",
-      "sourceName": "GamePro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aeDRFQ1NUU2UtZjZNUldGVmd4U056TkJlVXIwdkVTN3M3NFVQZXJnbkplek5sQ3BRZFhUazl0OGZSeHQwOGszZTlLUjl2SzNWV25rQTZnZw?oc=5",
-      "category": "feed"
-    },
-    {
-      "id": "rss-0512b1022e4d4e30c16c",
-      "title": "\"Verrückter Moment\": Stuttgarter Band hat Song in GTA VI - und weiß lange nichts davon",
-      "summary": "",
-      "body": "",
-      "publishedAt": "2026-11-25T15:11:00+00:00",
-      "sourceName": "SWR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNG1KWHNiVzFFMVFfX2RPOUdMYWhjc1BlOWl6NW1BaVRPQm5BU1NJaGUyOEU3OC1aOHFoR3NiZm1TdWsteW9xa24xZmlwZUxnVmMyTVNlMDNNelhSUDhZbFZPQ0dYbHp3dFJKQUpLcUZhTXhBSnhjb3N1VGtOdU00ay1nUHdxSzdUS0tnVXYxQmxTMmtV?oc=5",
       "category": "feed"
     }
   ]
